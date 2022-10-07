@@ -1,0 +1,10 @@
+
+A stack is an ADT where items that can only be added and removed from the top of the stack. This is a LIFO data structure, Last In First Out. Basic operations needed are enStack(item), deStack(), isFull(), isEmpty(). Where enStack adds an item to the top of the stack, deStack removes and returns the item from the top of the stack, isFull() checks if the stack is full, and isEmpty() checks if the stack is empty. Other methods may include peek() and size(), where peek() returns the item on the top of the stack without removing it, and size() returns the current size of the stack.
+
+
+Overflow is when an item is pushed onto a full stack, and underflow is when an attempt is made to pop from an empty stack. The call stack is a system level data structure that provides the mechanism for passing parameters and return addresses to subroutines. The use of the call stack is hidden from programmers in high level languages.
+
+Calls to a subroutine are executed as follows: Parameters are saved onto call stack, local variables are saved onto call stack, address to which execution returns after end of subroutine is saved onto call stack, execution is transferred to subroutine code. During subroutine execution: Stack space is allocated for local variables, subroutine code executes, and any local variables are updated as the code executes. When a subroutine completes: local variables are popped, any local variables that need to be returned are returned, the return address is popped and held, the parameters are popped and forgotten, then control goes back to the return address.
+
+
+A stack frame contains all the parameters, the return address, and the local variables for a single call to a subroutine that has not yet completed. Return address is the address at which control will be given once the subroutine completes. A stack overflow error can occur when the call stack becomes full, when subroutines are executed within subroutines and are nested too much. Local variables are at the top of a stack because they need to be able to be accessed when more variables are defined or variables are edited.

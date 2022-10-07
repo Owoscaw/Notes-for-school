@@ -1,0 +1,7 @@
+In a project, certain events need to happen before others. Critical path analysis is used to model how events will be carried out in order to carry out a project in the least time possible. If one activity cannot start until another one ends, that activity is dependent on the previous one. A precendenace table is a table that shows the dependency between activities.
+
+A project can also be modelled as an activity network, where activities are shown as arcs between nodes that represent certain activities completions. Each arc is labelled with a letter, and connects to two nodes that represent the start and end of its completion. An arrow is also used to indicate direction, and straight lines are generally used. The node from which all activities stem is known as the source node, while the node to which all activities lead is known as the sink node.
+
+Dummy activities are sometimes needed to preserve the logic from a precendence table in an activity network. These activities have no time or cost, and are only used to show dependence between activities.
+
+Every activity must be uniquely represented in terms of events (nodes). This means that no more than one activity can connect two events. See [[Early and late event times]] for more infromation on activity networks.

@@ -1,0 +1,1 @@
+Orders of magnitude describe which power of ten binds the object, for example the height of an average person is in the within $(1-9)\times10^{-1}m$, so it can be described as in the -1 order of magnitude. 
