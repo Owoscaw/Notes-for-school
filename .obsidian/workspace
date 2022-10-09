@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer science/Unit 11 - Databases/Systematic approach to software development.md",
+            "file": "Mathematics (including further)/Stats Y1/Data sets/Large data set.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science/Unit 11 - Databases/Systematic approach to software development.md",
+                "file": "Mathematics (including further)/Stats Y1/Data sets/Large data set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fddc209afcdcb221",
+  "active": "916279bb03a52dbe",
   "lastOpenFiles": [
-    "Computer science/Unit 11 - Databases/Defining and updating SQL databases.md",
-    "Computer science/Unit 11 - Databases/Introduction to SQL.md",
-    "Computer science/Unit 12 - OOP and Functional Programming/OOP design principles.md",
-    "Computer science/Unit 12 - OOP and Functional Programming/Basic concepts of OOP.md",
-    "Computer science/Unit 11 - Databases/Relational databases and normalisation.md",
-    "Computer science/Unit 11 - Databases/Entities and relationship modelling.md",
-    "Computer science/Unit 12 - OOP and Functional Programming/Basic concepts of OOP 1.md",
-    "Mathematics (including further)/Further Decision/Graphs and Networks/Travelling salesman problem lower bound.md",
-    "Mathematics (including further)/Further Decision/Graphs and Networks/Graph theory.md",
-    "Mathematics (including further)/Further Decision/Graphs and Networks/Travelling salesman problem upper bound.md"
+    "Mathematics (including further)/Stats Y1/Data sets/Sampling and populations.md",
+    "Mathematics (including further)/Stats Y1/Data sets/Large data set.md",
+    "Mathematics (including further)/Stats Y1/Data sets/Measures of location and spread.md",
+    "Mathematics (including further)/Stats Y1/Untitled.md",
+    "Mathematics (including further)/Stats Y1/Data sets/Coding.md",
+    "Mathematics (including further)/Pure Y1/Calculus/Integration.md",
+    "Mathematics (including further)/Pure Y1/Binomial theorem.md",
+    "LaTeX practice.md",
+    "Mathematics (including further)/Further Decision Y1/Linear Programming/Simplex tableau 3.png",
+    "Mathematics (including further)/Further Decision Y1/Linear Programming/Simplex tableau 5.png"
   ]
 }
