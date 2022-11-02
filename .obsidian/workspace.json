@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fddc209afcdcb221",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Computer science/Unit 9 - Regular Languages/Mealy machines.md",
-            "mode": "source",
-            "source": false
+        "id": "fec2fc28179b0e75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fddc209afcdcb221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science/Unit 9 - Regular Languages/Mealy machines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -86,6 +94,9 @@
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
   },
   "active": "fddc209afcdcb221",
   "lastOpenFiles": [
