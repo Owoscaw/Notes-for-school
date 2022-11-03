@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fec2fc28179b0e75",
+        "id": "f25272c311c89d03",
         "type": "tabs",
         "children": [
           {
-            "id": "fddc209afcdcb221",
+            "id": "34f1c2edf31e40fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Unit 9 - Regular Languages/Mealy machines.md",
+                "file": "Mathematics/Normal/Calculus/Differentiation.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science/Unit 9 - Regular Languages/Mealy machines.md",
+                "file": "Mathematics/Normal/Calculus/Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fddc209afcdcb221",
+  "active": "34f1c2edf31e40fa",
   "lastOpenFiles": [
-    "Computer science/Unit 2 - Problem Solving/Finite state machines.md",
-    "Computer science/Unit 2 - Problem Solving/FSM.png",
-    "Computer science/Unit 9 - Regular Languages/Mealy machines.md",
-    "Computer science/Unit 11 - Databases/Systematic approach to software development.md",
-    "Mathematics/Further/Decision/Graphs and Networks/Travelling salesman problem lower bound.md",
-    "Mathematics/Further/Decision/Graphs and Networks/Travelling salesman problem.md",
-    "Mathematics/Further/Decision/Graphs and Networks/Travelling salesman problem upper bound.md",
+    "Mathematics/Normal/Calculus/Differentiation from first principles.png",
+    "Mathematics/Normal/Calculus/Differentiation.md",
+    "Physics/Waves/Diffraction grating proof.png",
+    "Physics/Further Mechanics/Forced vibrations and resonance.md",
+    "Physics/Further Mechanics/Simple harmonic systems.md",
+    "Physics/Further Mechanics/Simple harmonic motion.md",
     "Physics/Further Mechanics/Circular motion.md",
-    "Mathematics (including further)/Untitled.md",
-    "Mathematics/Normal/Data sets/Large data set.md"
+    "Physics/Further Mechanics/OAB.png",
+    "Physics/Further Mechanics/centripetal acceleration.png",
+    "Physics/Mechanics and Materials/Bulk properties of solids.md"
   ]
 }
