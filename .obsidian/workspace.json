@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "6551bceaa74fb895",
+    "id": "10d15ac72bd5f85f",
     "type": "split",
     "children": [
       {
-        "id": "f25272c311c89d03",
+        "id": "0881ffaa3933db61",
         "type": "tabs",
         "children": [
           {
-            "id": "ec1cddd82424fba9",
+            "id": "c0dba063efd5152a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Unit 12 - OOP and Functional Programming/Functional programming.md",
+                "file": "Physics/Further Mechanics/Circular motion.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ca4a6481aaaea967",
+    "id": "97134d958ab3299d",
     "type": "split",
     "children": [
       {
-        "id": "ef05bfaf117aa339",
+        "id": "e699c124288d7348",
         "type": "tabs",
         "children": [
           {
-            "id": "916279bb03a52dbe",
+            "id": "8b647f02250de508",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "8a0fcd48d00524fc",
+            "id": "0922b4d96fcd0814",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,28 +56,36 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "e5c371240f5c0b91",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 286
+    "width": 300
   },
   "right": {
-    "id": "c37bda731e3fb27c",
+    "id": "22b81e9e769aa80e",
     "type": "split",
     "children": [
       {
-        "id": "fcc0bc63aa36c6d4",
+        "id": "5f63fc27dc9db489",
         "type": "tabs",
         "children": [
           {
-            "id": "18f3884c229fdc69",
+            "id": "8e8127eb29f85696",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science/Unit 12 - OOP and Functional Programming/Functional programming.md",
+                "file": "Physics/Further Mechanics/Circular motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,28 +95,57 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "3740331d4c5f3cf0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mathematics/Further/Decision/Critical Path Analysis/Early and late event times.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c376a71614cef11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a211a065b7f9900",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mathematics/Further/Decision/Critical Path Analysis/Early and late event times.md"
+              }
+            }
+          },
+          {
+            "id": "69a4d285a257472b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "ec1cddd82424fba9",
+  "active": "c0dba063efd5152a",
   "lastOpenFiles": [
-    "Mathematics/Normal/Calculus/Differentiation.md",
-    "Mathematics/Normal/Calculus/Differentiation from first principles.png",
-    "Physics/Waves/Diffraction grating proof.png",
-    "Physics/Further Mechanics/Forced vibrations and resonance.md",
-    "Physics/Further Mechanics/Simple harmonic systems.md",
-    "Physics/Further Mechanics/Simple harmonic motion.md",
-    "Physics/Further Mechanics/Circular motion.md",
-    "Physics/Further Mechanics/OAB.png",
-    "Physics/Further Mechanics/centripetal acceleration.png",
-    "Physics/Mechanics and Materials/Bulk properties of solids.md"
+    "Mathematics/Further/Decision/Critical Path Analysis/Early and late event times.md"
   ]
 }
