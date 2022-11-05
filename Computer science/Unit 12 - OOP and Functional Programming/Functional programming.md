@@ -1,0 +1,5 @@
+A programming paradigm is a style of programming. Different types of problems require different ways of solving them. Procedural programming is a "recipe" approach to problem-solving. Steps are taken one after another and are ordered. The three principles of procedural programming are sequence, selection, and iteration. Object-oriented programming is another type of paradigm. Declarative programming is another programming paradigm that states what needs to be done.
+
+Functional programming is a paradigm that describes a series of functions. Each function takes arguments and returns an output. The domain of a function is a set from which the function's input values are chosen, the co-domain is a set from which the function's output values are chosen. A function maps from a set of inputs to a set of outputs. For example:
+$$\Huge F:A\to B\,\,where\,\,f(x)=x^{2}$$
+Will have, for a domain of ${-n, 1-n, 2-n,..., n-1, n}$,  a co-domain of ${0, 1, 2,..., n}$ .
