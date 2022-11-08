@@ -1,14 +1,9 @@
+There are two main ways of sending data over a cable, serial and parallel. Each have their advantages and disadvantages.
 
-Serial data cables include the USB (Universal Serial Bus) standard, parallel cables are a ribbon of several smaller cables used typically for internal components in a computer. Parallel cables are used for smaller distances, as they are physically more wires and therefore more cost. In parallel cables, bits are sent simultaneously down the cable so that an entire byte or bytes can be sent at once. In a serial cable, bits can only be sent one at a time. In addition to the wires for data, additional wires are needed in both cable type for control signals and ground wire. Busses connecting internal computer components are a type of parallel cable. See [[Internal hardware]].
+## Serial:
 
-Serial connectors were used in the early days of computing to send the majority of data, which were reliable but slow. In parallel cable, twice the amount of lines are required for two-way communication. Parallel cable is limited to about 10 m due to interference between lines and signal fading.
+The most infamous serial cable is the USB (Universal Serial Bus) standard. In series transmission, bits are sent in sequence, one after another. These can be slow as only one bit is sent at a time, however clock rates can be raised to much higher frequencies than parallel cable due to the abscence of crosstalk. Serial cables are optimal for longer range transmission, due to the abscence of crosstalk and the relatively cheap manufacturing cost.
 
-The problem with parralel connectors is that each line has slightly different properties, which may cause bits to arrive at different times because bits travel at different speeds due to the impurity of each line. This problem is known as skew.
+## Parallel:
 
-
-
-Crosstalk is also introduced due to the electromagnetic interference between two adjacent lines in a parallel connection. As frequency (speed of transmission) increases, so does the amount of crosstalk. This can cause data to be corrupted, in which case it will need to be retransmitted. Shielded twisted pair wraps lines in an aluminium foil in order to reduce or eliminate interference from other cables.
-
-
-
-Serial cables do not encounter any of these issues, as there is only one line for one way communications. This makes serial cables much more reliable over distance and at a range of high frequency data transmissions. Serial cables are also much cheaper than parallel connectors.
+Parallel cables consist of many data channels from connector to connector. This enables entire bytes to be sent at once, as many bits can be sent simultaniously. These cables have a much higher bandwidth than serial connectors, and are therefore used as busses for [[Internal hardware|internal hardware]]. The major disadvantages of parallel transmission are crosstalk and skew. Over a long distance, faint electrical fields created by each channel in the cable can cause interference in other channels, which can often lead to data loss. Skew happens when data is delayed in its path and does not reach its destination at the same time as the other bits that were sent along with it. This causes the overall message sent to be lost. 

@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c97facb758bc8fe5",
+        "id": "628745fcf1bae73d",
         "type": "tabs",
         "children": [
           {
-            "id": "ae3edae5599b64ca",
+            "id": "6329264992d1e82a",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Test note.md",
-                "staged": false
+                "file": "Computer science/Unit 11 - Databases/Defining and updating SQL databases.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer science/Unit 11 - Databases/Defining and updating SQL databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,10 +142,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
-  "active": "ae3edae5599b64ca",
+  "active": "6329264992d1e82a",
   "lastOpenFiles": [
+    "Computer science/Unit 6 - Communications/Wireless networks.md",
+    "Computer science/Unit 6 - Communications/Social and legal issues.md",
+    "Computer science/Unit 6 - Communications/Network topologies.md",
+    "Computer science/Unit 6 - Communications/Communication methods.md",
+    "Computer science/Unit 6 - Communications/Communication and privacy.md",
+    "Computer science/Unit 6 - Communications/Classification of networks.md",
     "Physics/Further Mechanics/Circular motion.md",
     "Test note.md",
     "Mathematics/Further/Decision/Critical Path Analysis/Early and late event times.md"
