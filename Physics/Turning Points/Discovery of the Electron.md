@@ -21,7 +21,7 @@ Electron guns use thermionic emmission at the cathode and a high potential diffe
 $$\Huge \Delta W=Q\Delta V$$
 Substituting in the charge of an electron, $e$, for charge, and the potential difference applied, $V$, gives:
 $$\Huge \Delta W=eV$$
-![[Pasted image 20221109212457.png|500]]
+![[electron gun.png|500]]
 
 ## Specific charge of an electron:
 
@@ -29,7 +29,7 @@ There are two main ways used to determine the specific charge on an electron, th
 
 #### Fine beam tube:
 Electrons are accelerated using an electron gun, entering the fine beam tube in a direction perpendicular to a uniform magnetic field that runs across the experiment. The magnetic force on the electrons acts perpendicular to their path, causing them to rotate about a point. In this sense, the magnetic force acts as the centripetal force. The apparatus is set up as follows:
-![[Pasted image 20221109215803.png|300]]
+![[fine beam tube.png|300]]
 
 The electrons move through the tube, colliding with gas atoms and causing excitation / de-excitation. This reveals the path of the electron, allowing the radius of their path to be measured. The following steps show how to deduce the electron's specific charge from here:
 $$\large F_{c}=F_{m}\,\,\to\,\,\frac{m_{e}\,v^{2}}{r}=Bev\,\,\to\frac{m_{e}v}{r}=Be$$
@@ -44,3 +44,4 @@ Where:
 
 #### Thomson's crossed fields:
 
+This method of determining specific charge involves firing a beam of electrons, using an electron gun, onto a fluorescent screen with the magnetic and electric fields running per
