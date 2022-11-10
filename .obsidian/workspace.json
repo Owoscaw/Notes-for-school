@@ -75,7 +75,31 @@
   "right": {
     "id": "22b81e9e769aa80e",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "565f77fd233c3053",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bd8d0d9004e7e44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics/Turning Points/Discovery of the Electron.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 200,
     "collapsed": true
