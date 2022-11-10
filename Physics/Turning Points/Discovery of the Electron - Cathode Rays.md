@@ -1,4 +1,3 @@
-## Cathode rays:
 
 When a potential difference is applied across a dishcharge tube (cathode and anode in a tube with low pressure gas), the tube will beging to glow. This glow became known as the cathode ray. Thomson showed that cathode rays have:
 > mass
@@ -44,4 +43,19 @@ Where:
 
 #### Thomson's crossed fields:
 
-This method of determining specific charge involves firing a beam of electrons, using an electron gun, onto a fluorescent screen with the magnetic and electric fields running per
+This method of determining specific charge involves firing a beam of electrons, using an electron gun, onto a fluorescent screen with the magnetic and electric fields running perpendicular to each other:
+![[crossed fields.png|500]]
+
+Electrons are accelerated by the electron gun and enter the apparatus perpendicular to both electric and magnetic field. The magnetic field deflects the electron beam downwards, while the electric field deflects it upwards. The strengths of each field are adjusted until the electron beam travels straight through the apparatus. This allows the electric force to be equated to the magnetic force:
+$$\large F_m=F_e\,\,\to\,\,F_m=Bev\,\,,\,F_e=Ee=\frac{Ve}{d}\,\,\to\,\,Bev=\frac{Ve}{d}$$
+$$\large v=\frac{Ve}{Be\,d}=\frac{V}{Bd}\,\,\to\,\,E_k=eV_a=\frac{1}{2}mv^2\,\,,\,v^2=\frac{2eV_a}{m_e}$$
+$$\large v^2=\frac{V^2}{B^2d^2}=\frac{2eV_a}{m_e}\,\,,\,\frac{e}{m_e}=\frac{V^2}{B^2d^2}\div2V_a{}$$
+$$\Huge \frac{e}{m_e}=\frac{V^2}{2B^2d^2V_a}$$
+Where:
+>$\frac{e}{m_e}$ is the specific charge of an electron
+>$V$ is the pd applied to the electric field
+>$B$ is the magnetic flux density of the magnetic field
+>$d$ is the distance between the two charged plates
+>$V_a$ is the pd applied at the electron gun, to accelerate the beam
+
+All of the above variables can be measured in the experiment, allowing Thomson to solve for the specific charge of the electron. This experiment showed that specific charge was constant no matter the gas used to produce electrons, demonstrating that they are in every atom. Thomson went on to propse the plum pudding model of the atom.
