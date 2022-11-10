@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "628745fcf1bae73d",
+        "id": "33970e9fc761cc10",
         "type": "tabs",
         "children": [
           {
-            "id": "2b97acc86dc3c1ec",
+            "id": "5c16f0e24c93815e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Turning Points/Discovery of the Electron - Cathode Rays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54e70bc1cd7c4b46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Turning Points/Discovery of the Electron - Millikan.md",
+                "file": "Physics/Turning Points/Wave-Particle duality.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Turning Points/Discovery of the Electron - Millikan.md",
+                "file": "Physics/Turning Points/Wave-Particle duality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +104,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "54e70bc1cd7c4b46",
+  "active": "5c16f0e24c93815e",
   "lastOpenFiles": [
+    "Physics/Turning Points/corpuscular theory.png",
+    "Physics/Turning Points/Wave-Particle duality.md",
+    "Physics/Turning Points/Discovery of the Electron - Millikan.md",
     "Physics/Turning Points/Discovery of the Electron - Cathode Rays.md",
     "Physics/Turning Points/fine beam tube.png",
     "Physics/Turning Points/cathode ray.png",
     "Computer science/Unit 6 - Communications/Wireless networks.md",
     "Computer science/Unit 6 - Communications/Network topologies.md",
     "Computer science/Unit 6 - Communications/Communication methods.md",
-    "Computer science/Unit 11 - Databases/Defining and updating SQL databases.md",
-    "Computer science/Unit 6 - Communications/Social and legal issues.md",
-    "Computer science/Unit 6 - Communications/Communication and privacy.md",
-    "Computer science/Unit 6 - Communications/Classification of networks.md"
+    "Computer science/Unit 11 - Databases/Defining and updating SQL databases.md"
   ]
 }

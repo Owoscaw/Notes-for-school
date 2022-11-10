@@ -25,3 +25,5 @@ Where:
 >$v$ is the droplet's terminal velocity
 >$d$ is the distance between the two charged plates
 >$V$ is the pd applied between the charged plates
+
+This result showed that the charge of all the oil droplets was an integer multiple of $1.6\times 10^{-19}C$, proving that charge exists in discrete packets of this number, $e$.
