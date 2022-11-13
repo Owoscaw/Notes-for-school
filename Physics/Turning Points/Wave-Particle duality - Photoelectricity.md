@@ -1,0 +1,1 @@
+A black body is a body that absorbs and emits all possible wavelengths of radiation. Wave theory predicted that with decreasing wavelength, intensity would increase.

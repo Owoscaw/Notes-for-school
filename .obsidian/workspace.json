@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33970e9fc761cc10",
+        "id": "2c2613ab441a10af",
         "type": "tabs",
         "children": [
           {
-            "id": "5c16f0e24c93815e",
+            "id": "babf75c3af21aaab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Turning Points/Wave-Particle duality.md",
+                "file": "Physics/Turning Points/Wave-Particle duality - Photoelectricity.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Turning Points/Wave-Particle duality.md",
+                "file": "Physics/Turning Points/Wave-Particle duality - Photoelectricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +104,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "5c16f0e24c93815e",
+  "active": "babf75c3af21aaab",
   "lastOpenFiles": [
+    "Physics/Turning Points/Wave-Particle duality - Electromagnetic waves.md",
+    "Physics/Turning Points/Wave-Particle duality - Wave theories.md",
+    "Physics/Waves/Refraction, diffraction, and interference.md",
+    "Physics/Turning Points/Huygen's refraction.png",
+    "Physics/Turning Points/Huygen's reflection.png",
     "Physics/Turning Points/corpuscular theory.png",
-    "Physics/Turning Points/Wave-Particle duality.md",
     "Physics/Turning Points/Discovery of the Electron - Millikan.md",
     "Physics/Turning Points/Discovery of the Electron - Cathode Rays.md",
     "Physics/Turning Points/fine beam tube.png",
-    "Physics/Turning Points/cathode ray.png",
-    "Computer science/Unit 6 - Communications/Wireless networks.md",
-    "Computer science/Unit 6 - Communications/Network topologies.md",
-    "Computer science/Unit 6 - Communications/Communication methods.md",
-    "Computer science/Unit 11 - Databases/Defining and updating SQL databases.md"
+    "Physics/Turning Points/cathode ray.png"
   ]
 }
