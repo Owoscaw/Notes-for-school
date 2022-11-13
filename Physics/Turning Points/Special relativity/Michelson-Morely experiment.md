@@ -1,0 +1,10 @@
+Absolute motion is the idea that everything moves relative to the ether, a substance proposed to permeate through the entire universe. Michelson and Morely designed an experiment using apparatus known as an interferometer to measure the relative speed of the Earth through the ether. This apparatus consisted of a beam splitter, two mirrors, and a compensating plate. A light source shines a ray of light on the beam splitter, splitting it into two beams travelling perpendicular to one another. 
+
+The beam splitter reflects some light while allowing otther to pass through the glass. The beam that passes through glass then travels to the mirror, reflects, then is reflected again off of the beam splitter to a detector. The beam that is reflected travels through a compensating plate, so that both beams travel through the same amount of glass. It is then reflected off of the mirror, and then refracts through the beam splitter to the detector. At the detector, the interference pattern of the two beams can be measured:
+![[interferometer.png|350]]
+
+Both Michelson and Morely beleived that the motion of the Earth would affect the speed of the ray of light travelling parallel to it, while leaving the perpendicular ray unaffected. They theorised that the light moving parallel to the Earth's motion will take longer to travel, so that rotating the interferometer will cause a shift in the interference pattern detected.
+
+Upon observation, the interference pattern did not shift. This meant that the time taken for both rays to travel was not affected by the rotation of the interferometer. There were two conclusion that could be drawn from this:
+> The ether either does not exist, or the Earth drags it along 
+> The speed of light is constant in free space, independent of the motion of the source and observer

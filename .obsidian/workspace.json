@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9820b092fc297890",
+            "id": "babf75c3af21aaab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Physics/Turning Points/Special relativity/Michelson-Morely experiment.md",
-                "mode": "source",
-                "source": false
+                "file": "Physics/Turning Points/Wave-Particle duality/photoemission.png"
               }
             }
           }
@@ -69,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "22b81e9e769aa80e",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Turning Points/Special relativity/Michelson-Morely experiment.md",
+                "file": "Physics/Turning Points/Wave-Particle duality/photoemission.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,25 +94,33 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "690d0c9ff938621d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
-  "active": "9820b092fc297890",
+  "active": "8b647f02250de508",
   "lastOpenFiles": [
-    "Physics/Turning Points/Wave-Particle duality/Constant current STM.png",
-    "Physics/Turning Points/Wave-Particle duality/Transmission microscope.png",
-    "Physics/Turning Points/Wave-Particle duality/Electron microscopes.md",
-    "Physics/Turning Points/Wave-Particle duality/de Broglie hypothesis.md",
-    "Physics/Turning Points/Wave-Particle duality/Wave theories.md",
-    "Physics/Turning Points/Wave-Particle duality/Electromagnetic waves.md",
+    "Physics/Turning Points/Wave-Particle duality/ultraviolet catastrophe.png",
     "Physics/Turning Points/Wave-Particle duality/Photoelectricity.md",
-    "Physics/Turning Points/Discovery of the Electron/Millikan's experiment.md",
-    "Physics/Turning Points/Discovery of the Electron/Cathode Rays.md",
-    "Physics/Turning Points/Wave-Particle duality/Spark gap transmitter.png"
+    "Physics/Turning Points/Special relativity/interferometer.png",
+    "Physics/Turning Points/Special relativity/Michelson-Morely experiment.md",
+    "Physics/Turning Points/Wave-Particle duality - Photoelectricity.md",
+    "Physics/Turning Points/Wave-Particle duality - Electromagnetic waves.md",
+    "Physics/Turning Points/Wave-Particle duality - Wave theories.md",
+    "Physics/Waves/Refraction, diffraction, and interference.md",
+    "Physics/Turning Points/Huygen's refraction.png",
+    "Physics/Turning Points/Huygen's reflection.png"
   ]
 }
