@@ -1,5 +1,5 @@
 Electromagnetic waves are formed by the electric and magnetic fields oscillating in phase, perpendicular to one another:
-![[Pasted image 20221110141712.png|450]]
+![[EM wave.png|450]]
 
 ## Maxwell:
 Maxwell predicted the existance of EM waves and theorised a formula for their speed, $c$:
@@ -18,7 +18,7 @@ A dipole reciever detects a wave's electric field by measuring the alternating c
 
 The loop of wire detects the alternating magnetic field of the wave. When the magnetic field of the wave enters the loop, magnetic flux changes, therefore inducing a potential difference that causes a spark to cross the gap in the transmitter.
 
-![[Pasted image 20221110143052.png|300]]
+![[Spark gap transmitter.png|300]]
 
 Hertz placed a metal sheet in front of the above apparatus, causing the reflection of the radio wave, creating [[Principle of superposition and stationary waves|stationary waves]]. By using a detector, the distance between adjacent nodes in the stationary wave could be measured. This was used to determine the wavelength of EM waves, which could be combined with the known frequency of the waves to find the overall speed of the waves. This was shown to be consistent with Maxwell's prediction.
 

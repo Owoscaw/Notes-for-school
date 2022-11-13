@@ -6,4 +6,4 @@ Electrons can be shown to have both wave and particle like behaviour. The wave n
 De Broglie hypothesised that if light has particle like properties, then particles can have wave like properties. He wrote the following equation to link an object's momentum to it's hypothesised wavelength:
 $$\Huge \lambda=\frac{h}{mv}$$
 Using the above equation, the amount of diffraction can be seen to change in tandom with the particle's momentum. When momentum increases, wavelength decreases, as well as the amount of diffraction. This causes the concentric rings seen during electron diffraction interference to become closer together. 
-![[Electron diffraction.png|300]]
+![[Physics/Particles and Radiation/Electron diffraction.png|300]]
