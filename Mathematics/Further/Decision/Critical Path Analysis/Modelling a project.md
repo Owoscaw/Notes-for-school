@@ -4,4 +4,4 @@ A project can also be modelled as an activity network, where activities are show
 
 Dummy activities are sometimes needed to preserve the logic from a precendence table in an activity network. These activities have no time or cost, and are only used to show dependence between activities.
 
-Every activity must be uniquely represented in terms of events (nodes). This means that no more than one activity can connect two events. See [[Early and late event times]] for more infromation on activity networks.
+Every activity is represented by an arc between nodes in an activity network. Each node has an associated [[Early and late event times|early and late]] event time. This is an example of a practical use for [[Graph theory|graphs]].

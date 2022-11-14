@@ -6,6 +6,8 @@ IPv4 only provides a theoretical maximum of $2^{32}$ addresses, which is not eno
 
 IP addresses used to be categorised into various classes to help identify the network and host IDs of various ranges. The most significant bits of an IP address were used to indicate the class type, 0 = A, 10 = B, 110 = C, 1110 = D, 1111 = E. 
 
+## Subnets:
+
 A subnet mask is used together with an IP address to identify the network ID within the address. This mask has all network ID bits sent to 1 and all host ID bits set to 0, so the bitwise AND operation is performed with the IP address and the subnet mask. The output of this operation is the network ID of the IP address. For example, a network with a subnet mast x.y.z.w/28 will have 4 bits remaining for the host ID, and will therefore be able to service $2^{4}$, or 16 hosts. Note that the split between host and network ID does not have to be between octets.
 
 An organisation can choose to further subdivide the number of available host IDs that they have between individual subnetworks. This reduces the broadcast domain, improving security, as well as reducing the number of data collisions.
