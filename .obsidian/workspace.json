@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "babf75c3af21aaab",
+            "id": "d060174b7dca8033",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Further/Decision/Critical Path Analysis/Gantt charts.md",
+                "file": "Computer science/Unit 9 - Regular Languages/Mealy machines.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d060174b7dca8033",
+            "id": "79799524648a5ac9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Further/Decision/Critical Path Analysis/Resource Histograms.md",
+                "file": "Computer science/Unit 9 - Regular Languages/Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Further/Decision/Critical Path Analysis/Resource Histograms.md",
+                "file": "Computer science/Unit 9 - Regular Languages/Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +116,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "d060174b7dca8033",
+  "active": "79799524648a5ac9",
   "lastOpenFiles": [
+    "Computer science/Unit 9 - Regular Languages/Mealy machines.md",
+    "Mathematics/Further/Decision/Critical Path Analysis/Resource Histograms.md",
     "Mathematics/Further/Decision/Critical Path Analysis/Gantt charts.md",
     "Mathematics/Further/Decision/Critical Path Analysis/Gantt example.png",
     "Mathematics/Further/Decision/Critical Path Analysis/Gantt activity example.png",
@@ -125,8 +127,6 @@
     "Mathematics/Further/Decision/Critical Path Analysis/Early and late event times.md",
     "Mathematics/Further/Decision/Linear Programming/Big M method.md",
     "Computer science/Unit 10 - The Internet/Structure and URLs.md",
-    "Computer science/Unit 10 - The Internet/Security on the internet.md",
-    "Computer science/Unit 10 - The Internet/Routing and Network address translation (NAT).md",
-    "Computer science/Unit 10 - The Internet/Protocol stack and web pages.md"
+    "Computer science/Unit 10 - The Internet/Security on the internet.md"
   ]
 }
