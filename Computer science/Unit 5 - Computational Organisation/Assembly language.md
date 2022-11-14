@@ -1,7 +1,5 @@
 
-
 Assembly code uses mnemonics to represent machine code. It is unique to a given computer architecture, similar to machine code. Assembly language translates directly into machine code, determined by a CPU's [[Processor instruction set]]. Example:
-
 
 LDR R1, 300: load contents of address 300 into register 1
 LDR R4, 301: load contents of address 301 into register 4
@@ -51,7 +49,6 @@ The logical commands for assembly code are:
 \> EOR Rd, Rn, <operand>: performs an XOR bitwise comparison with the value in Rn and the value specified in the operand and stores the result in Rd.
 
 \> MVN Rd, <operand>: performs a bitwise NOT comparison on the value specified in the operand and stores the result in Rd.
-
 
 The AND function can convert an ascii value into a pure binary value by changing the first four bits to a 0, while retaining any information in the last four bits. This would look like AND R1, R2, #00001111B. The last parameter is a binary value, specified by the "B" at the end. The OR function can be used to set certain bits to a 1 without affecting any other bits, for example: OR R1, R2, #00001111B to set the last four bits of a binary value to 1. The NOT function can be used to convert a binary number into the negative version of said number through two's compliment, as seen here: NOT R1, R1; ADD R1, R1, #1B. This would convert the binary value in register 1 to its two's compliment.
 

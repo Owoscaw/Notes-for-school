@@ -1,6 +1,5 @@
 A tree is a common abstract data type. It has a root, branches and leaves. A tree is a connected, undirected [[Graphs]] with no cycles. A tree does not have to hwave a root. A rooted tree has a node identified as a root. Every node except the root has one unique parent. Tree are read from top to bottom, the top node being the root. Nodes connected to another node above is that node's child.
 
-
 \> Root: start of the tree, everyone's parent
 \> Parent: has children connecting below it
 \> Child: has a parent connecting above it

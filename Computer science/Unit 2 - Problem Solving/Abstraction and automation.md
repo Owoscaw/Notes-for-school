@@ -3,8 +3,7 @@ Abstraction is an important tool in problem solving. One aspect of abstraction i
 
 Automation is the building of models of real world objects and phenomenon in order to solve it computationally. Computer scientists have to decide relevant details and discard everything else. Algorithms and data structures can then be designed to solve the problem. In the example of modelling traffic flow, an example of a data structure would be a car with certain characteristics, an example of an algorithm would be the a description of how a car moves through a road.
 
-Algorithms used to solve a problem are far removed from the machine code that actually executes the instructions. For example, IF x > Y: print(x) would be about 7 lines of 1s and 0s!!!
-
+Algorithms used to solve a problem are far removed from the machine code that actually executes the instructions. For example, IF x > Y: print(x) would be about 7 lines of 1s and 0s.
 
 Procedural abstraction is used to keep actually values involved in computations separate from overall design. This involves writing procedures, and passing parameters in order to perform computation. A car dealer, for example, may use a procedure for displaying a particular model of car, and pass parameters for the details of said car. Values are not returned to the main program when using procedural abstraction, a block of code is ran based upon the variables parsed into it.
 

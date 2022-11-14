@@ -1,7 +1,6 @@
 
 Computational thinking is working out how to work things out, the ability to think logically in regards to a problem and apply relevant techniques to solve them. 
 
-
 There are many methods to solve a problem:
 \> simulation
 \> enumeration – list all cases

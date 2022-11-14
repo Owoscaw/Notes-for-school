@@ -1,5 +1,4 @@
 
-
 Unlike primary storage, secondary storage is non-volatile. If power is lost to a secondary storage device, data is retained. Different types of secondary storage devices are specialised for their different use case, they may vary in durability, read/write speed, capacity, portability, and cost.
 
 In a hard drive, concentric tracks containing sectors make up a single disk. These disks, called platters, are spun up to 7200 rpm where a read write head can read or write data to the platter. Data is stored in the polarity of each cell on each platter in each track in each sector. Alternating charge indicates a binary pattern on the disk. A change in polarity is read as a one, as there is a clear different in current that is induced by these magnetic cells in the read/write head.
