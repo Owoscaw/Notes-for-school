@@ -8,35 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3da9674fbad4a5ab",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f6929b42bf20c6c3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d7b72f7cccbd1a7c",
+            "id": "e21b62dbecff6205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Normal/Calculus/Integration.md",
+                "file": "Mathematics/Further/Pure/Loci and Regions in the Complex Plane.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Normal/Calculus/Integration.md",
+                "file": "Mathematics/Further/Pure/Loci and Regions in the Complex Plane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,17 +103,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "d7b72f7cccbd1a7c",
+  "active": "e21b62dbecff6205",
   "lastOpenFiles": [
-    "Mathematics/Normal/Calculus/Differentiation.md",
-    "Mathematics/Normal/Calculus/Integration.md",
-    "Mathematics/Further/Decision/Critical Path Analysis/Gantt charts and Resource Histograms.md",
+    "Mathematics/Further/Pure/Complex numbers.md",
+    "Mathematics/Further/Pure/argand diagram.png",
+    "Mathematics/Further/Pure/Loci and Regions in the Complex Plane.md",
+    "Mathematics/Further/Pure/Other Forms of Complex Numbers.md",
+    "Mathematics/Further/Pure/arg in other quadrants.png",
+    "Mathematics/Further/Pure/Pasted image 20221115105356.png",
+    "Mathematics/Further/Pure/mod-arg form.png",
+    "Mathematics/Further/Decision/Critical Path Analysis/Graphical Methods of Project Management.md",
     "Mathematics/Further/Decision/Critical Path Analysis/Modelling a project.md",
-    "Mathematics/Further/Decision/Critical Path Analysis/Resource Histograms.md",
-    "Mathematics/Further/Decision/Critical Path Analysis/Untitled.md",
-    "Mathematics/Further/Decision/Critical Path Analysis/Gantt activity example.png",
-    "Mathematics/Further/Decision/Critical Path Analysis/Activity networks.md",
-    "Mathematics/Further/Decision/Critical Path Analysis/Early and late event times.md",
-    "Mathematics/Further/Decision/Algorithms/Order of an algorithm.md"
+    "Mathematics/Further/Decision/Critical Path Analysis/Activity networks.md"
   ]
 }

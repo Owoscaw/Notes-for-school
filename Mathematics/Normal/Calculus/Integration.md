@@ -15,7 +15,7 @@ $$\Large \int (ax^{n}+bx^{m})dx=\int ax^{n}\,dx\,\,+\int bx^{m}\,dx$$
 
 ## Definite integration:
 
-The following is a useful visualisation of the process when taking an integral:
+The following is a useful visualisation of the process when taking a definite integral, showing the area that is found when taking an integral from $a$ to $b$:
 ![[Integration visualisation part 1.png|500]]
 ![[Integration visualisation part 2.png|500]]
 
