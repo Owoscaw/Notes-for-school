@@ -11,3 +11,10 @@ $$\Huge \emptyset=\{\}$$
 The character $\in$ is used to denote membership of a set, for example $n\in\mathbb{N}$ means that $n$ is a member of the natural numbers, $\mathbb{N}$. The $|$ symbol denotes "such that", and the ^ symbol denotes "and". For example:
 $$\Large S=\{x|\,\,x\in\mathbb{N}\textasciicircum x\,\,is\,\,even\}$$
 Here, $S$ denotes the set of natural numbers that are even.
+
+## Set operators:
+
+There are three main set operations:
+> Union, $A\cup B$, represents the set of all members that are in either A and B
+> Intersection, $A\cap B$, represents the set of all members in both A and B
+> Difference, $A\textbackslash B$, represents the set of all members in A, but not in B
