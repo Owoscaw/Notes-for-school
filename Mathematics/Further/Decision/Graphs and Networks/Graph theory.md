@@ -6,7 +6,7 @@ Graphs are often useful for solving problems like the shortest route from point 
 These are a few definitions associated with graphs:
 \> Tree - a graph with no cycles
 \> Spanning tree - a tree that connects all nodes
-\> Minimum spanning tree - a spanning tree of minimum possible weight, found through [[Kruskal's algorithm]] or [[Prim's algorithm]].
+\> Minimum spanning tree - a spanning tree of minimum possible weight, found through an [[MST algorithms|MST algorithm]]
 \> Order - the amount of arcs that start or finish at a node
 \> Simple graph - a graph with no loops or multiple arcs between nodes
 \> Cycle - a route starting and finishing at the same node
@@ -22,15 +22,11 @@ These are a few definitions associated with graphs:
 
 The handshake lemma dictates that in every undirected graph, the number of nodes that touch an odd number of arcs is even. This can be represented as:
 $$\Huge \sum_{v\in V}deg\,v=2|E|$$
-Where $V$ is the set of nodes in the graph and $E$ is the set of arcs in the graph.
+Where $V$ is the set of nodes in the graph and $E$ is the set of arcs in the graph. The triangle inequality must hold for all triangles in the network. The triangle inequality holds that the longest side of any triangle $\leq$ the sum of the two shorter sides.
 
 This is a visual representation of an undirected graph with its adjacency matrix beside it. Node that the arcs between nodes can have weight to indicate the time it takes to travel them, in this case the weight of each arc is 1:
 ![[Graph theory undirected.png|500]]
 This is a directed version of the above graph:
 ![[Graph theory undirected 1.png|500]]
 
-A graph is Eulerian if it contains a trail that includes every arc and starts and finishes at the same node. Any connected graph whose nodes are all of even order is Eulerian.
-
-A graph is semi-Eulerian if it contains a trail that includes every arc, but starts and finishes at different nodes. Any connected graph whose nodes are all of even order except for two is semi-Eulerian. 
-
-Eulerian and semi-Eulerian graphs can be drawn without lifting a pen off of the paper and without repeating any arcs. 
+A graph is Eulerian if it contains a trail that includes every arc and starts and finishes at the same node. Any connected graph whose nodes are all of even order is Eulerian. A graph is semi-Eulerian if it contains a trail that includes every arc, but starts and finishes at different nodes. Any connected graph whose nodes are all even order except for two is semi-Eulerian.  Eulerian and semi-Eulerian graphs can be drawn without lifting a pen off of the paper and without repeating any arcs. 

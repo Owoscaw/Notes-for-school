@@ -5,7 +5,7 @@ The first-fit algorithm works by considering items in the order they are given:
 \> Place each item in the first availible bin starting from bin 1 every time
 
 The first-fit-decreasing algorithmis identical to the first-fit algorithm but requires the items to be sorted in descending order first:
-\> Sort items into descending order, using [[Bubble sort]] or [[Quick sort]].
+\> Sort items into descending order, a [[Sorting algorithms|sorting algorithm]]
 \> Apply the first-fit algorithm
 
 The full-bin algorithm required the inspection of each bin to select items that will combine to fill bins:

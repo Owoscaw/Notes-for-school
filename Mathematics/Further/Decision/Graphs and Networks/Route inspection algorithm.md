@@ -1,5 +1,5 @@
 
-The route inspection algorithm can be used to find the shortest route in a graph that traverses every arc at least once and returns to its starting point. If a graph is Eulerian, this problem is easily solved, as the route can start and end from any node. See [[Graph theory]] for more information on Eulerian and semi-Eulerian graphs. 
+The route inspection algorithm can be used to find the shortest route in a graph that traverses every arc at least once and returns to its starting point. If a graph is Eulerian, this problem is easily solved, as the route can start and end from any node.
 
 This problem is also easily solved if the graph is semi-Eulerian, as the path will be the cycle that starts and ends at the two nodes of odd order plus the shortest distance that connect these two nodes. 
 

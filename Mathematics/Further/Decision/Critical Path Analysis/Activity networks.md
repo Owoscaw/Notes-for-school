@@ -1,4 +1,10 @@
-The length of an activity represents the time it takes to complete. Weights can be added to arcs in an activity network to represent this. 
+An activity network is a [[Graph theory|graph]] that represents the activities that need to be done and how long they take. Each activity is represented by its own arc. All events have to start from one or more event or the source. All events have to end at one or more event or the sink. The source, sink, and all places where two events meet are nodes. 
+
+Dummy activities are arcs that represent no activity and have no weight. They are used to maintain exclusive dependance. For example if activity $C$ is dependent on activities $A$ and $B$, however activity $D$ is dependent only on $A$, a dummy is needed from the node at $A$ and $D$ to the node at $B$ and $C$ to maintain this logic.
+
+## Early and late times:
+
+Each node has an associated early and late time that represents the earliest and latest times a preceding activity can start. If a node has the same early and late time, it is critical. 
 
 The early event time is the earliest time of arrival at the event that allows for the completion of all preceding activities. The late event time is the lastest time at which the event can happen without extending the total time needed for the project. Critical activities are activies that need to happen immediatley after each other, they have the same early and late event times.
 

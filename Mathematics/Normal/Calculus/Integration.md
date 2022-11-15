@@ -1,6 +1,8 @@
 Integration is the reverse process of [[Differentiation]], it is used to find the area under a function between two bounds. When an integral is bound by two numbers, it is called a definite integral. When it is not bounded, it is called an indefinite integral.
 
-The process of integration involves taking the sum of rectangles that are fitted with a width $\delta x$ and a height $f(\delta x)$. It can be written as a sum:
+## Indefinite integration:
+
+Indefinite integration is the process of finding an antiderivative with no, bounds. It returns an area function that can provide the area bound by the line $f(x)$ up to $x$. The process of integration involves taking the sum of rectangles that are fitted with a width $\delta x$ and a height $f(\delta x)$. It can be written as a sum:
 $$\Large \int f(x)\,dx=\lim_{n\to\infty}\,\sum_{i=1}^{n}f(x_{i})\delta x$$
 Let's look closer at the LHS of the equation:
 $$\Huge \int f(x)\,dx$$
@@ -10,6 +12,9 @@ We are taking the limit as $n$ tends to infinity of the sum from  $i=1$ to $i=n$
 $$\Large \int x^{n}\,dx=\frac{x^{n+1}}{n+1}+c$$
 Where $c$ is a constant. Note that the following is true for any number of terms for the intergrand (function being integrated):
 $$\Large \int (ax^{n}+bx^{m})dx=\int ax^{n}\,dx\,\,+\int bx^{m}\,dx$$
+
+## Definite integration:
+
 The following is a useful visualisation of the process when taking an integral:
 ![[Integration visualisation part 1.png|500]]
 ![[Integration visualisation part 2.png|500]]

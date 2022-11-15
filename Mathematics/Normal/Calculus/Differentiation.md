@@ -12,4 +12,4 @@ $$\Huge \frac{dy}{dx}=nx^{n-1}$$
 
 As the difference in $y$ and difference in $x$ become smaller and smaller, different symbols are used to represent their ratio:
 $$\Huge \frac{\Delta y}{\Delta x}\to\frac{\delta y}{\delta x}\to\frac{dy}{dx}$$
-When you differentate a function once, it is known as its first derivative. When you differentiate the first derivative, it is known as the second derivative, and so on and so forth. For example, in physics, velocity is the first derivative of displacement, and acceleration is the second derivative of displacement. This can be seen in [[Motion along a straight line]] .
+When you differentate a function once, it is known as its first derivative. When you differentiate the first derivative, it is known as the second derivative, and so on and so forth. For example, in [[Motion along a straight line|physics]], velocity is the first derivative of displacement, and acceleration is the second derivative of displacement. 
