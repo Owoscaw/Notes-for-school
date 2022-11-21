@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e21b62dbecff6205",
+            "id": "a985d07153f7850f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Further/Pure/Loci and Regions in the Complex Plane.md",
+                "file": "Mathematics/Further/Pure/Complex Plane/Roots of Unity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Further/Pure/Loci and Regions in the Complex Plane.md",
+                "file": "Mathematics/Further/Pure/Complex Plane/Roots of Unity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +103,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "e21b62dbecff6205",
+  "active": "a985d07153f7850f",
   "lastOpenFiles": [
-    "Mathematics/Further/Pure/Complex numbers.md",
-    "Mathematics/Further/Pure/argand diagram.png",
-    "Mathematics/Further/Pure/Loci and Regions in the Complex Plane.md",
-    "Mathematics/Further/Pure/Other Forms of Complex Numbers.md",
-    "Mathematics/Further/Pure/arg in other quadrants.png",
+    "Mathematics/Further/Pure/Complex Plane/De Moivre's Theorem and Euler's Relation.md",
+    "Mathematics/Normal/Binomial theorem.md",
+    "Mathematics/Further/Pure/Complex Plane/Loci and Regions in the Complex Plane.md",
+    "Mathematics/Further/Pure/Complex Plane/Complex numbers.md",
+    "Mathematics/Further/Pure/Complex Plane/difference between points.png",
+    "Mathematics/Further/Pure/Complex Plane/argand diagram.png",
+    "Mathematics/Further/Pure/Complex Plane/Other Forms of Complex Numbers.md",
+    "Mathematics/Further/Pure/Complex Plane/arg in other quadrants.png",
     "Mathematics/Further/Pure/Pasted image 20221115105356.png",
-    "Mathematics/Further/Pure/mod-arg form.png",
-    "Mathematics/Further/Decision/Critical Path Analysis/Graphical Methods of Project Management.md",
-    "Mathematics/Further/Decision/Critical Path Analysis/Modelling a project.md",
-    "Mathematics/Further/Decision/Critical Path Analysis/Activity networks.md"
+    "Mathematics/Further/Pure/Complex Plane/mod-arg form.png"
   ]
 }

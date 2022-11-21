@@ -24,5 +24,6 @@
     "ine databses. R",
     "Gantt charts"
   ],
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "strictLineBreaks": true
 }
