@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a985d07153f7850f",
+            "id": "6309780df5ff27a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Unit 9 - Regular Languages/Sets.md",
+                "file": "Computer science/Unit 9 - Regular Languages/Regular Expressions.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "22b81e9e769aa80e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science/Unit 9 - Regular Languages/Sets.md",
+                "file": "Computer science/Unit 9 - Regular Languages/Regular Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,8 +104,9 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "a985d07153f7850f",
+  "active": "8b647f02250de508",
   "lastOpenFiles": [
+    "Computer science/Unit 9 - Regular Languages/Sets.md",
     "Mathematics/Further/Pure/Complex Plane/Roots of Unity.md",
     "Mathematics/Further/Pure/Complex Plane/De Moivre's Theorem and Euler's Relation.md",
     "Mathematics/Normal/Binomial theorem.md",
@@ -113,7 +115,6 @@
     "Mathematics/Further/Pure/Complex Plane/difference between points.png",
     "Mathematics/Further/Pure/Complex Plane/argand diagram.png",
     "Mathematics/Further/Pure/Complex Plane/Other Forms of Complex Numbers.md",
-    "Mathematics/Further/Pure/Complex Plane/arg in other quadrants.png",
-    "Mathematics/Further/Pure/Pasted image 20221115105356.png"
+    "Mathematics/Further/Pure/Complex Plane/arg in other quadrants.png"
   ]
 }
