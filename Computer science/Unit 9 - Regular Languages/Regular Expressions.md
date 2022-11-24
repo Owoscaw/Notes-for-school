@@ -17,3 +17,7 @@ $$\Huge (01)^*=\{\,\,,01,0101,010101,...\}$$
 $$\Huge 10^+1=\{101,1001,10001,100001,...\}$$
 $$\Large (10^+\,|\,01^+)=\{10,100,1000,...,01,011,0111,...\}$$
 $$\huge 10(00)|(11)1?=\{10001,1000,1011,10111\}$$
+
+## Regular languages:
+
+A language is regular if it can be expressed by a regular expression or a finite state machine. A finite state machine can be represented by a regular expression, and vice versa
