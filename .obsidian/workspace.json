@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Unit 9 - Regular Languages/Regular Expressions.md",
+                "file": "Mathematics/Further/Decision/Graphs and Networks/Travelling salesman problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science/Unit 9 - Regular Languages/Regular Expressions.md",
+                "file": "Mathematics/Further/Decision/Graphs and Networks/Travelling salesman problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,8 +103,9 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "8b647f02250de508",
+  "active": "6309780df5ff27a7",
   "lastOpenFiles": [
+    "Computer science/Unit 9 - Regular Languages/Regular Expressions.md",
     "Computer science/Unit 9 - Regular Languages/Sets.md",
     "Mathematics/Further/Pure/Complex Plane/Roots of Unity.md",
     "Mathematics/Further/Pure/Complex Plane/De Moivre's Theorem and Euler's Relation.md",
@@ -113,7 +114,6 @@
     "Mathematics/Further/Pure/Complex Plane/Complex numbers.md",
     "Mathematics/Further/Pure/Complex Plane/difference between points.png",
     "Mathematics/Further/Pure/Complex Plane/argand diagram.png",
-    "Mathematics/Further/Pure/Complex Plane/Other Forms of Complex Numbers.md",
-    "Mathematics/Further/Pure/Complex Plane/arg in other quadrants.png"
+    "Mathematics/Further/Pure/Complex Plane/Other Forms of Complex Numbers.md"
   ]
 }
