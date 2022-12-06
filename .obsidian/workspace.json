@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Further/Decision/Graphs and Networks/Travelling salesman problem.md",
+                "file": "Mathematics/Further/Decision/Graphs and Networks/MST algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Further/Decision/Graphs and Networks/Travelling salesman problem.md",
+                "file": "Mathematics/Further/Decision/Graphs and Networks/MST algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "6309780df5ff27a7",
   "lastOpenFiles": [
+    "Mathematics/Further/Decision/Graphs and Networks/Travelling salesman problem.md",
     "Computer science/Unit 9 - Regular Languages/Regular Expressions.md",
     "Computer science/Unit 9 - Regular Languages/Sets.md",
     "Mathematics/Further/Pure/Complex Plane/Roots of Unity.md",
@@ -113,7 +114,6 @@
     "Mathematics/Further/Pure/Complex Plane/Loci and Regions in the Complex Plane.md",
     "Mathematics/Further/Pure/Complex Plane/Complex numbers.md",
     "Mathematics/Further/Pure/Complex Plane/difference between points.png",
-    "Mathematics/Further/Pure/Complex Plane/argand diagram.png",
-    "Mathematics/Further/Pure/Complex Plane/Other Forms of Complex Numbers.md"
+    "Mathematics/Further/Pure/Complex Plane/argand diagram.png"
   ]
 }
