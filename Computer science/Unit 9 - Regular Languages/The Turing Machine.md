@@ -6,3 +6,9 @@ A Turing machine consists of two parts, a theoretically infinite tape of 0s or 1
 i love you oscar.
 turing macihineee
 
+## Transition functions:
+
+When using Turing machines, state transition diagrames, and their associated transition rules, a transition function can be used. $\delta$ can be used to represent a transition function:
+$$\Large \delta \left(current\,\,state,\,\,input \right) = \left(new\,\,state,\,\,output,\,\,direction\right)$$
+
+
