@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69ab8000c57a34ae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +114,16 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "9cf3fa360756efea",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "69ab8000c57a34ae",
   "lastOpenFiles": [
     "Mathematics/Further/Decision/Graphs and Networks/Travelling salesman problem.md",
     "Mathematics/Further/Decision/Graphs and Networks/MST algorithms.md",
