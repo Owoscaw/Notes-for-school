@@ -23,4 +23,4 @@ Two detectors are needed in order to carry out this experiment. One at a higher 
 
 The expected count rate at the second detector can be found by dividing the distance between detectors by the measured velocity of the muon. This is how much time the muons experience, if special relativaty were not taken into account. The amount of half lives, and therefore expected muon count rate, can be calculated.
 
-Using the same calculation as before, observed time can be found. This is used with the velocity of the muons, relative to the detectors (stationary observers) to find the proper time of the muons. This is how much time was actually experienced by the muons.
+Using the same calculation as before, observed time can be found. This is used with the velocity of the muons, relative to the detectors (stationary observers) to find the proper time of the muons. This is how much time was actually experienced by the muons, determining the amount of muon decays that actually happen. The amount of muons at the second detector can be measured, allowing for experimental evidence that supports Einstein's theory.

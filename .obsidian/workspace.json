@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "6551bceaa74fb895",
+    "id": "10d15ac72bd5f85f",
     "type": "split",
     "children": [
       {
-        "id": "fe3ba790a1253cf5",
+        "id": "9681b147f3f3c592",
         "type": "tabs",
         "children": [
           {
-            "id": "9dee1dfd7fd8717c",
+            "id": "f5086732611571fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Turning Points/Special relativity/Einstein's Theory of Special Relativity.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ca4a6481aaaea967",
+    "id": "97134d958ab3299d",
     "type": "split",
     "children": [
       {
-        "id": "ef05bfaf117aa339",
+        "id": "e699c124288d7348",
         "type": "tabs",
         "children": [
           {
-            "id": "916279bb03a52dbe",
+            "id": "8b647f02250de508",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "8a0fcd48d00524fc",
+            "id": "0922b4d96fcd0814",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,27 +56,36 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "e5c371240f5c0b91",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 286
+    "width": 300
   },
   "right": {
-    "id": "c37bda731e3fb27c",
+    "id": "22b81e9e769aa80e",
     "type": "split",
     "children": [
       {
-        "id": "fcc0bc63aa36c6d4",
+        "id": "f1a58282a935cb59",
         "type": "tabs",
         "children": [
           {
-            "id": "18f3884c229fdc69",
+            "id": "c54a2d8b6e9fe9d0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physics/Turning Points/Special relativity/Einstein's Theory of Special Relativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -99,17 +112,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9dee1dfd7fd8717c",
+  "active": "f5086732611571fd",
   "lastOpenFiles": [
-    "Computer science/Unit 9 - Regular Languages/Mealy machines.md",
-    "conflict-files-obsidian-git.md",
-    "Computer science/Unit 2 - Problem Solving/Finite state machines.md",
-    "Computer science/Unit 2 - Problem Solving/FSM.png",
-    "Computer science/Unit 11 - Databases/Systematic approach to software development.md",
-    "Mathematics/Further/Decision/Graphs and Networks/Travelling salesman problem lower bound.md",
+    "Computer science/Unit 8 - Algorithms/Recursive algorithms.md",
+    "Computer science/Unit 8 - Algorithms/Optimisation algorithms.md",
+    "Computer science/Unit 9 - Regular Languages/Backus-Naur.md",
+    "Computer science/Unit 9 - Regular Languages/The Turing Machine.md",
     "Mathematics/Further/Decision/Graphs and Networks/Travelling salesman problem.md",
-    "Mathematics/Further/Decision/Graphs and Networks/Travelling salesman problem upper bound.md",
-    "Physics/Further Mechanics/Circular motion.md",
-    "Mathematics (including further)/Untitled.md"
+    "Mathematics/Further/Decision/Graphs and Networks/Route inspection algorithm.md",
+    "Mathematics/Further/Decision/Graphs and Networks/MST algorithms.md",
+    "Computer science/Unit 9 - Regular Languages/Regular Expressions.md",
+    "Computer science/Unit 9 - Regular Languages/Sets.md",
+    "Mathematics/Further/Pure/Complex Plane/Roots of Unity.md"
   ]
 }
