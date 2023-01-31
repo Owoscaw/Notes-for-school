@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 339.5
   },
   "right": {
     "id": "22b81e9e769aa80e",
@@ -112,7 +112,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f5086732611571fd",
+  "active": "8b647f02250de508",
   "lastOpenFiles": [
     "Computer science/Unit 8 - Algorithms/Recursive algorithms.md",
     "Computer science/Unit 8 - Algorithms/Optimisation algorithms.md",
