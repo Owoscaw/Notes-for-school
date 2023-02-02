@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5086732611571fd",
+            "id": "0b6cc9b6c7b20c3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Turning Points/Special relativity/Einstein's Theory of Special Relativity.md",
+                "file": "Physics/Fields and their consequences/Gravitational fields.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 339.5,
+    "collapsed": true
   },
   "right": {
     "id": "22b81e9e769aa80e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Turning Points/Special relativity/Einstein's Theory of Special Relativity.md",
+                "file": "Physics/Fields and their consequences/Gravitational fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,8 +113,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8b647f02250de508",
+  "active": "0b6cc9b6c7b20c3a",
   "lastOpenFiles": [
+    "Physics/Turning Points/Special relativity/Einstein's Theory of Special Relativity.md",
     "Computer science/Unit 8 - Algorithms/Recursive algorithms.md",
     "Computer science/Unit 8 - Algorithms/Optimisation algorithms.md",
     "Computer science/Unit 9 - Regular Languages/Backus-Naur.md",
@@ -122,7 +124,6 @@
     "Mathematics/Further/Decision/Graphs and Networks/Route inspection algorithm.md",
     "Mathematics/Further/Decision/Graphs and Networks/MST algorithms.md",
     "Computer science/Unit 9 - Regular Languages/Regular Expressions.md",
-    "Computer science/Unit 9 - Regular Languages/Sets.md",
-    "Mathematics/Further/Pure/Complex Plane/Roots of Unity.md"
+    "Computer science/Unit 9 - Regular Languages/Sets.md"
   ]
 }
