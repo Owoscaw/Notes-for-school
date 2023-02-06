@@ -43,3 +43,11 @@ $$\Large \frac{4\pi^2r^2}{T^2}=\frac{GM}{r}$$
 $$\Large 4\pi^2r^3=GMT^2$$
 $$\Large T^2=\frac{4\pi^2}{GM}r^3$$
 The total energy of a satellite in orbit is equal to the sum of its kinetic and potential energies. This remains constant, as when potential energy decreases, kinetic will increase (lower orbit means faster velocity)
+
+## Escape velocity:
+
+Escape velocity is the minimum velocity required for an object to escape the gravitational field at the surface of a mass:
+$$\Huge E_k=E_p$$
+$$\Large \frac{1}{2}mv^2=m\Delta V=\frac{GMm}{r}$$
+$$\Large \frac{1}{2}v^2=\frac{GM}{r},\,\,\,v^2=\frac{2GM}{r}$$
+$$\Huge v=\sqrt{\frac{2GM}{r}}$$
