@@ -39,6 +39,8 @@ for i in range(1, n):
 ## $O(log\,n)$:
 In big $O$ notation, only $log_2$ is considered, no other bases are needed. Divide and conquer algorithms work by halving the size of a problem at each pass. Time complexity increases very slowly as the size of $n$ increases.  
 
+## $O(2^n)$:
+
 
 
 # Analysing an algorithm:
@@ -65,3 +67,17 @@ for student in range(1, n):
 In the above code, there are $n$ assignments of the student iterating variable. Per loop, Mark is assigned 3 times, and total is assigned once. This means there are 7 assignments per loop for the first for loop in the above code, i.e. $7n$.
 
 In the bottom for loop, there are $n$ assignments of the student iterating variable. Per loop, average is assigned once, i.e. $n$ times in total. This means that the total amount of assignments in the entire algorithm is $9n$, making it $O(n)$.
+
+
+# Permutation:
+
+A permutation of $n$ items is the number of ways the items can be arranged. There are two main types of permutation, repetition allowed, and no repetition allowed. This is seen in the [[Binomial theorem|binomial theorem]].
+
+There are $k^n$ possible ways of choosing $n$ items from a list of $k$ items, allowing repetition:
+$$\Large [0-k],[0-k],...,[0-k]\,\,\,n\,\,times$$
+$$\Large k\times k\times k\times ...\times k\,\,\,n\,\,times$$
+$$\Large k^n$$
+There are $n!$ ways of choosing a sequence of $n$ items:
+$$\Large [0-n],[0-(n-1)],[0-(n-1)],...,[0-1]$$
+$$\Large n\times (n-1)\times(n-2)\times ...\times 1$$
+$$\Large n!$$
