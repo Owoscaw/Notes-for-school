@@ -43,6 +43,10 @@ def linearSearch(listOfNames, name):
 
 Binary search is a very efficient way of searching ordered data in a list. The midpoint of the list is examined. If the midpoint is larger than the searching item, the lower half of the list is considered. If the midpoint is smaller than the searching item, the upper half of the list is considered. This is repeated until the index of the searching item is found. Every time the midpoint is examined, half of the data set is removed. This has order $O(log\,n)$.
 
+## Binary tree search:
+
+Similar to binary search, sorted names are stored in a data structure according to their place. The midpoint of the list becomes the root node, the midpoint of the lower half becomes the first node on the left, same on the right, ect. This has the same order as binary search.
+
 # Sorting:
 
 ## Bubble sort:
@@ -61,3 +65,9 @@ def bubbleSort(names):
 				names[j] = names[j + 1]
 				names[j + 1] = swapName
 ```
+
+## Merge sort:
+
+Much more efficient than bubble sort. The list is repeatedly divided into sub-lists by halfving each time. $n$ sublists are created by this process, of length 1. Lists are then merged together with an adjacent list, in order. This is repeated until the single list is merged. Merge sort is very efficient on parallel processors, where multiple cores are availible. This is an example of a divide and conquers algorithm.
+
+The parent list is split into halves $log\,n$ times, and then each list is merged $n$ times, reuslting in merge sort having time complexity of $n\,log\,n$.
