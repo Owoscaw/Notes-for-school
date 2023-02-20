@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c0894ceeb0b1c33",
+            "id": "85fdc028b3a978c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Unit 8 - Algorithms/Searching and Sorting.md",
+                "file": "Computer science/Unit 8 - Algorithms/Graph traversal algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science/Unit 8 - Algorithms/Searching and Sorting.md",
+                "file": "Computer science/Unit 8 - Algorithms/Graph traversal algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +112,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3c0894ceeb0b1c33",
+  "active": "85fdc028b3a978c4",
   "lastOpenFiles": [
     "Computer science/Unit 8 - Algorithms/Big O notation.md",
-    "Computer science/Unit 8 - Algorithms/Searching and Sorting.md",
-    "Mathematics/Normal/Binomial theorem.md",
     "Computer science/Unit 8 - Algorithms/Recursive algorithms.md",
-    "Mathematics/Further/Decision/Critical Path Analysis/Modelling a project.md",
-    "Mathematics/Further/Decision/Critical Path Analysis/Graphical Methods of Project Management.md",
-    "Mathematics/Further/Decision/Critical Path Analysis/Activity networks.md",
-    "Mathematics/Further/Decision/Algorithms/Sorting algorithms.md",
-    "Mathematics/Further/Decision/Algorithms/Order of an algorithm.md",
-    "Mathematics/Further/Decision/Algorithms/Bin packing algorithms.md"
+    "Computer science/Unit 8 - Algorithms/DFS9.png",
+    "Computer science/Unit 8 - Algorithms/DFS8.png",
+    "Computer science/Unit 8 - Algorithms/DFS7.png",
+    "Computer science/Unit 8 - Algorithms/DFS6.png",
+    "Computer science/Unit 8 - Algorithms/DFS5.png",
+    "Computer science/Unit 8 - Algorithms/DFS4.png",
+    "Computer science/Unit 8 - Algorithms/DFS3.png",
+    "Computer science/Unit 8 - Algorithms/DFS2.png"
   ]
 }
