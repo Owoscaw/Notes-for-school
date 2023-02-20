@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Unit 6 - Communications/Wired connections.md",
+                "file": "Computer science/Unit 6 - Communications/Data transmission.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 339.5,
+    "collapsed": true
   },
   "right": {
     "id": "22b81e9e769aa80e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science/Unit 6 - Communications/Wired connections.md",
+                "file": "Computer science/Unit 6 - Communications/Data transmission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,12 +113,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8b647f02250de508",
+  "active": "a480fa7363c8eeb4",
   "lastOpenFiles": [
-    "Computer science/Unit 6 - Communications/Network topologies.md",
-    "Computer science/Unit 6 - Communications/Social and legal issues.md",
-    "Computer science/Unit 6 - Communications/Wired connections.md",
     "Computer science/Unit 6 - Communications/Wireless connections.md",
+    "Computer science/Unit 6 - Communications/Network topologies.md",
+    "Computer science/Unit 6 - Communications/Data transmission.md",
+    "Computer science/Unit 6 - Communications/Social and legal issues.md",
     "Computer science/Unit 6 - Communications/Network models.md",
     "Computer science/Unit 6 - Communications/Communication and privacy.md",
     "Computer science/Unit 8 - Algorithms/Graph traversal algorithms.md",
