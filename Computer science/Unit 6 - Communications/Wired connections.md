@@ -2,7 +2,7 @@ There are two main ways of sending data over a cable, serial and parallel. Each 
 
 ## Serial:
 
-The most infamous serial cable is the USB (Universal Serial Bus) standard. In series transmission, bits are sent in sequence, one after another. These can be slow as only one bit is sent at a time, however clock rates can be raised to much higher frequencies than parallel cable due to the abscence of crosstalk. Serial cables are optimal for longer range transmission, due to the abscence of crosstalk and the relatively cheap manufacturing cost.
+The most widely used serial cable is the USB (Universal Serial Bus) standard. In series transmission, bits are sent in sequence, one after another. These can be slow as only one bit is sent at a time, however clock rates can be raised to much higher frequencies than parallel cable due to the abscence of crosstalk. Serial cables are optimal for longer range transmission, due to the abscence of crosstalk and the relatively cheap manufacturing cost.
 
 ## Parallel:
 
