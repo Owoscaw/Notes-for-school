@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "10d15ac72bd5f85f",
+    "id": "6551bceaa74fb895",
     "type": "split",
     "children": [
       {
-        "id": "9681b147f3f3c592",
+        "id": "fe3ba790a1253cf5",
         "type": "tabs",
         "children": [
           {
-            "id": "f5086732611571fd",
+            "id": "9dee1dfd7fd8717c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "97134d958ab3299d",
+    "id": "ca4a6481aaaea967",
     "type": "split",
     "children": [
       {
-        "id": "e699c124288d7348",
+        "id": "ef05bfaf117aa339",
         "type": "tabs",
         "children": [
           {
-            "id": "8b647f02250de508",
+            "id": "916279bb03a52dbe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "0922b4d96fcd0814",
+            "id": "8a0fcd48d00524fc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,31 +56,23 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "e5c371240f5c0b91",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 286
   },
   "right": {
-    "id": "22b81e9e769aa80e",
+    "id": "c37bda731e3fb27c",
     "type": "split",
     "children": [
       {
-        "id": "f1a58282a935cb59",
+        "id": "fcc0bc63aa36c6d4",
         "type": "tabs",
         "children": [
           {
-            "id": "c54a2d8b6e9fe9d0",
+            "id": "18f3884c229fdc69",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -100,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -112,17 +104,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8b647f02250de508",
+  "active": "9dee1dfd7fd8717c",
   "lastOpenFiles": [
-    "Computer science/Unit 8 - Algorithms/Recursive algorithms.md",
-    "Computer science/Unit 8 - Algorithms/Optimisation algorithms.md",
-    "Computer science/Unit 9 - Regular Languages/Backus-Naur.md",
-    "Computer science/Unit 9 - Regular Languages/The Turing Machine.md",
+    "Computer science/Unit 9 - Regular Languages/Mealy machines.md",
+    "conflict-files-obsidian-git.md",
+    "Computer science/Unit 2 - Problem Solving/Finite state machines.md",
+    "Computer science/Unit 2 - Problem Solving/FSM.png",
+    "Computer science/Unit 11 - Databases/Systematic approach to software development.md",
+    "Mathematics/Further/Decision/Graphs and Networks/Travelling salesman problem lower bound.md",
     "Mathematics/Further/Decision/Graphs and Networks/Travelling salesman problem.md",
-    "Mathematics/Further/Decision/Graphs and Networks/Route inspection algorithm.md",
-    "Mathematics/Further/Decision/Graphs and Networks/MST algorithms.md",
-    "Computer science/Unit 9 - Regular Languages/Regular Expressions.md",
-    "Computer science/Unit 9 - Regular Languages/Sets.md",
-    "Mathematics/Further/Pure/Complex Plane/Roots of Unity.md"
+    "Mathematics/Further/Decision/Graphs and Networks/Travelling salesman problem upper bound.md",
+    "Physics/Further Mechanics/Circular motion.md",
+    "Mathematics (including further)/Untitled.md"
   ]
 }
