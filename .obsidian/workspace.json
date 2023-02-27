@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Unit 1 - Fundamentals of Programming/Selection.md",
+                "file": "Computer science/Unit 9 - Regular Languages/Backus-Naur.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
-    "collapsed": true
+    "width": 339.5
   },
   "right": {
     "id": "22b81e9e769aa80e",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science/Unit 1 - Fundamentals of Programming/Selection.md",
+                "file": "Computer science/Unit 9 - Regular Languages/Backus-Naur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +127,7 @@
   },
   "active": "ae1d019650e96b07",
   "lastOpenFiles": [
+    "Computer science/Unit 1 - Fundamentals of Programming/Selection.md",
     "Computer science/Unit 1 - Fundamentals of Programming/Programming basics.md",
     "Computer science/Unit 6 - Communications/Data transmission.md",
     "Computer science/Unit 6 - Communications/Wireless connections.md",
@@ -136,7 +136,6 @@
     "Computer science/Unit 6 - Communications/Network models.md",
     "Computer science/Unit 6 - Communications/Communication and privacy.md",
     "Computer science/Unit 8 - Algorithms/Graph traversal algorithms.md",
-    "Computer science/Unit 8 - Algorithms/Big O notation.md",
-    "Computer science/Unit 8 - Algorithms/Recursive algorithms.md"
+    "Computer science/Unit 8 - Algorithms/Big O notation.md"
   ]
 }
