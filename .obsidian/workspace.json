@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Unit 9 - Regular Languages/Backus-Naur.md",
+                "file": "Computer science/Unit 8 - Algorithms/Graph traversal algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "b2d4bdd0d3349e8f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
-    "collapsed": true
+    "width": 339.5
   },
   "right": {
     "id": "22b81e9e769aa80e",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science/Unit 9 - Regular Languages/Backus-Naur.md",
+                "file": "Computer science/Unit 8 - Algorithms/Graph traversal algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +112,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b2d4bdd0d3349e8f",
+  "active": "ae1d019650e96b07",
   "lastOpenFiles": [
+    "Computer science/Unit 8 - Algorithms/BFS9.png",
+    "Computer science/Unit 8 - Algorithms/BFS8.png",
+    "Computer science/Unit 8 - Algorithms/BFS7.png",
+    "Computer science/Unit 8 - Algorithms/BFS6.png",
+    "Computer science/Unit 8 - Algorithms/BFS5.png",
+    "Computer science/Unit 8 - Algorithms/BFS4.png",
+    "Computer science/Unit 8 - Algorithms/BFS3.png",
+    "Computer science/Unit 8 - Algorithms/BFS2.png",
+    "Computer science/Unit 8 - Algorithms/BFS1.png",
+    "Computer science/Unit 8 - Algorithms/graph BFS.png",
+    "Computer science/Unit 8 - Algorithms/graph DFS.png",
+    "Computer science/Unit 8 - Algorithms/Graph traversal algorithms.md",
+    "Computer science/Unit 9 - Regular Languages/Backus-Naur.md",
     "Computer science/Unit 1 - Fundamentals of Programming/Selection.md",
     "Computer science/Unit 1 - Fundamentals of Programming/Programming basics.md",
     "Computer science/Unit 6 - Communications/Data transmission.md",
@@ -134,7 +135,6 @@
     "Computer science/Unit 6 - Communications/Social and legal issues.md",
     "Computer science/Unit 6 - Communications/Network models.md",
     "Computer science/Unit 6 - Communications/Communication and privacy.md",
-    "Computer science/Unit 8 - Algorithms/Graph traversal algorithms.md",
     "Computer science/Unit 8 - Algorithms/Big O notation.md"
   ]
 }

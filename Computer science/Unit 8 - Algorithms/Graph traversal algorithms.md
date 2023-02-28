@@ -1,10 +1,11 @@
+In a sparse graph (not very many verticies), traversal algorithms have complexity $n + e$, where $n$ is the number of nodes and $e$ is the number of arcs. This is effectively $O(n)$. With a maximum (complete) graph, traversal algorithms have complexity $n + n(n - 1)$, as there are $n$ nodes and $n(n - 1)$ arcs. This becomes $n^2 - n$, which is $O(n^2)$.
 There are two main methods of traversing a [[Graph theory|graph]], depth first and breadth first:
 
 ## Depth first:
 
 In depth first traversal (DFS), a path is fully explored before backtracking and going down the next path. i.e. you go as deep as you can down a path before backtracking.
 
-![[graph.png|200]]
+![[graph DFS.png|200]]
 
 A is pushed onto a stack to keep track of where we have started, as well as appended to a list of visited nodes. B is also appended, as this is where we have traversed to:
 ![[DFS1.png|450]]
@@ -41,7 +42,27 @@ def dfs(graph, currentNode, visitedNodes):
 	return visitedNodes
 ```
 
-
 ## Breadth first:
 
 In depth first traversal (BFS), all neighbouring (adjacent) nodes are explored before exploring all the neighbours of all neighbouring nodes. i.e. all neighbours are searched, a neighbour is chosen, all of that node's neighbours are searched e.c.t.
+
+All adjacent nodes are visited before moving to another node. This is repeated when the next node is traversed to and so on and so forth.
+
+Consider a graph:
+![[graph BFS.png|300]]
+A list of visited nodes is used, as well as a queue, to manage nodes to visit next:
+![[BFS1.png|300]]
+A is where we are starting, so it is marked as visited:
+![[BFS2.png|300]]
+A's adjacent nodes are pushed to the queue:
+![[BFS3.png|300]]
+B is then visited, so it is added to the visited list, removed from the queue, and it's adjacent nodes are pushed to the back of the queue:
+![[BFS4.png|300]]
+Same process is repeated with the node at the front of the queue, D:
+![[BFS5.png|300]]
+E is then visited, it has no adjacent nodes that have not already been added to the queue and have not been visited, so nothing is pushed to the queue:
+![[BFS6.png|300]]
+![[BFS7.png|300]]
+![[BFS8.png|300]]
+![[BFS9.png|300]]
+All nodes have now been visited, so the traversal is complete. This makes a BFS traversal of the graph: ABDECFG
