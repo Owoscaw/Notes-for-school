@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "440585b08a7845cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer science/Unit 1 - Fundamentals of Programming/Programming basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ae1d019650e96b07",
             "type": "leaf",
             "state": {
@@ -28,6 +16,16 @@
                 "file": "Computer science/Unit 9 - Regular Languages/Backus-Naur.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b2d4bdd0d3349e8f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
               }
             }
           }
@@ -82,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 339.5,
+    "collapsed": true
   },
   "right": {
     "id": "22b81e9e769aa80e",
@@ -125,7 +124,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ae1d019650e96b07",
+  "active": "b2d4bdd0d3349e8f",
   "lastOpenFiles": [
     "Computer science/Unit 1 - Fundamentals of Programming/Selection.md",
     "Computer science/Unit 1 - Fundamentals of Programming/Programming basics.md",
