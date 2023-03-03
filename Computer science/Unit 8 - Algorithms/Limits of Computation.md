@@ -5,6 +5,8 @@ Limits of computation are imposed by algorithm complexity and hardware power.
 
 A problem is intractable if it has a [[Big O notation|time complexity]] of anything worse than polynomial, $O(2^n)$, $O(n!)$, e.c.t. A problem is tractable if it has a polynomial or less time complexity, $O(n^k)$.
 
+![[problems.png|500]]
+
 ## TSP:
 
 The [[Travelling salesman problem|travelling salesman problem]] is a classic example of an incomputable problem. It is an optimisation problem that has applications in shipping, transport, e.c.t. 
