@@ -12,3 +12,7 @@ A problem is intractable if it has a [[Big O notation|time complexity]] of anyth
 The [[Travelling salesman problem|travelling salesman problem]] is a classic example of an incomputable problem. It is an optimisation problem that has applications in shipping, transport, e.c.t. 
 
 Brute forcing this problem results in a time complexity of $O(n!)$, as each permutation of each possible arc combination needs to be explored. It is an intractable problem.
+
+## Heuristic methods:
+
+Not all intractable problems are equally hard. Approximations can be found by finding a solution that may not be perfect, however is adequate for practical purposes. This is done frequently when finding [[Travelling salesman problem|solutions to the tsp]].
