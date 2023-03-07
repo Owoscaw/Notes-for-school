@@ -15,4 +15,13 @@ Brute forcing this problem results in a time complexity of $O(n!)$, as each perm
 
 ## Heuristic methods:
 
-Not all intractable problems are equally hard. Approximations can be found by finding a solution that may not be perfect, however is adequate for practical purposes. This is done frequently when finding [[Travelling salesman problem|solutions to the tsp]].
+Not all intractable problems are equally hard. Approximations can be found by finding a solution that may not be perfect, however is adequate for practical purposes. This is done frequently when finding [[Travelling salesman problem|solutions to the tsp]]. 
+
+Often, as technology develops, non-computable problems can be considered computable through heurstic methods.
+
+## The halting problem:
+
+This is the problem of determining, for any given input, whether a program will finish running in a finite amount of time. Alan Turing proved, in 1936, that the halting problem cannot be solved for any input and any program. He also proved that for a set of inputs to a program, the halting problem can be solved. It cannot be solved for every input on any machine.
+
+`
+
