@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Unit 8 - Algorithms/Limits of Computation.md",
+                "file": "Computer science/Unit 7 - Data Structures/Stacks and call stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 339.5,
+    "collapsed": true
   },
   "right": {
     "id": "22b81e9e769aa80e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science/Unit 8 - Algorithms/Limits of Computation.md",
+                "file": "Computer science/Unit 7 - Data Structures/Stacks and call stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,11 +113,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8b647f02250de508",
+  "active": "8d541881e2b88752",
   "lastOpenFiles": [
+    "Computer science/Unit 7 - Data Structures/Queues and ADTs.md",
+    "Computer science/Unit 7 - Data Structures/Graphs.md",
+    "Computer science/Unit 8 - Algorithms/Limits of Computation.md",
     "Computer science/Unit 8 - Algorithms/problems.png",
     "Computer science/Unit 8 - Algorithms/Graph traversal algorithms.md",
-    "Computer science/Unit 8 - Algorithms/Limits of Computation.md",
     "Computer science/Unit 8 - Algorithms/BFS9.png",
     "Computer science/Unit 8 - Algorithms/BFS8.png",
     "Computer science/Unit 8 - Algorithms/BFS7.png",
@@ -126,7 +129,6 @@
     "Computer science/Unit 8 - Algorithms/BFS3.png",
     "Computer science/Unit 8 - Algorithms/BFS2.png",
     "Computer science/Unit 8 - Algorithms/BFS1.png",
-    "Computer science/Unit 8 - Algorithms/graph BFS.png",
     "Computer science/Unit 9 - Regular Languages/Backus-Naur.md",
     "Computer science/Unit 1 - Fundamentals of Programming/Selection.md",
     "Computer science/Unit 1 - Fundamentals of Programming/Programming basics.md",
