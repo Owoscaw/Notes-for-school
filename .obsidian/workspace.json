@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af747f5d5f42dff1",
+            "id": "e52729acf910e572",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Unit 3 - Data Representation/Compression and Encryption.md",
+                "file": "Computer science/Unit 12 - OOP and Functional Programming/Big Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 339.5,
+    "collapsed": true
   },
   "right": {
     "id": "22b81e9e769aa80e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science/Unit 3 - Data Representation/Compression and Encryption.md",
+                "file": "Computer science/Unit 12 - OOP and Functional Programming/Big Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,10 +113,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "af747f5d5f42dff1",
+  "active": "e52729acf910e572",
   "lastOpenFiles": [
-    "Computer science/Unit 3 - Data Representation/Representation of Sound.md",
     "Computer science/Unit 3 - Data Representation/Compression and Encryption.md",
+    "Computer science/Unit 12 - OOP and Functional Programming/Big Data.md",
+    "Computer science/Unit",
+    "Computer science/Unit 3 - Data Representation/Representation of Sound.md",
     "Computer science/Unit 3 - Data Representation/Nyquist's theorem.png",
     "Computer science/Unit 7 - Data Structures/Stacks and call stack.md",
     "Computer science/Unit 3 - Data Representation",
