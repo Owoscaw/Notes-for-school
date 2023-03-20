@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d541881e2b88752",
+            "id": "af747f5d5f42dff1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Unit 7 - Data Structures/Stacks and call stack.md",
+                "file": "Computer science/Unit 3 - Data Representation/Compression and Encryption.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
-    "collapsed": true
+    "width": 339.5
   },
   "right": {
     "id": "22b81e9e769aa80e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science/Unit 7 - Data Structures/Stacks and call stack.md",
+                "file": "Computer science/Unit 3 - Data Representation/Compression and Encryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +112,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8d541881e2b88752",
+  "active": "af747f5d5f42dff1",
   "lastOpenFiles": [
+    "Computer science/Unit 3 - Data Representation/Representation of Sound.md",
+    "Computer science/Unit 3 - Data Representation/Compression and Encryption.md",
+    "Computer science/Unit 3 - Data Representation/Nyquist's theorem.png",
+    "Computer science/Unit 7 - Data Structures/Stacks and call stack.md",
+    "Computer science/Unit 3 - Data Representation",
     "Computer science/Unit 7 - Data Structures/Queues and ADTs.md",
     "Computer science/Unit 7 - Data Structures/Graphs.md",
     "Computer science/Unit 8 - Algorithms/Limits of Computation.md",
@@ -128,7 +132,6 @@
     "Computer science/Unit 8 - Algorithms/BFS4.png",
     "Computer science/Unit 8 - Algorithms/BFS3.png",
     "Computer science/Unit 8 - Algorithms/BFS2.png",
-    "Computer science/Unit 8 - Algorithms/BFS1.png",
     "Computer science/Unit 9 - Regular Languages/Backus-Naur.md",
     "Computer science/Unit 1 - Fundamentals of Programming/Selection.md",
     "Computer science/Unit 1 - Fundamentals of Programming/Programming basics.md",
