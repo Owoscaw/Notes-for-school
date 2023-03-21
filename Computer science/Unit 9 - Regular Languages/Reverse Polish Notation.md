@@ -23,3 +23,5 @@ $$\Huge (((4/2)+(8*4))-(5+2))$$
 $$\Huge (((42/)+(84*))-(52+))$$
 $$\Huge (((42/)(84*)+)(52+)-)$$
 $$\Huge 42/84*+52+-$$
+
+Another method of translation is by using a binary tree. This works by building a [[Trees|binary tree]] from the infix expression then traversing it using a post-order traversal algorithm. Operands of lowest precedence are decomposed into two child nodes of the lowest precendece operand. Once the binary tree is constructed, traversing using post-order traversal will translate the infix expression to RPN.
