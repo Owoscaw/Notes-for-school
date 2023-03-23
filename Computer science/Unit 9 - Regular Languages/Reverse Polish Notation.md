@@ -25,3 +25,10 @@ $$\Huge (((42/)(84*)+)(52+)-)$$
 $$\Huge 42/84*+52+-$$
 
 Another method of translation is by using a binary tree. This works by building a [[Trees|binary tree]] from the infix expression then traversing it using a post-order traversal algorithm. Operands of lowest precedence are decomposed into two child nodes of the lowest precendece operand. Once the binary tree is constructed, traversing using post-order traversal will translate the infix expression to RPN.
+
+
+## RPN to infix:
+
+One method of converting RPN expression into infix expressions is through scanning. This works by scanning left to right, picking out pairs of operands and single operators. Using brackets between operands makes this clear.
+
+Another method of converting RPN to infix is by bracketing. This is very similar to converting infix to RPN. Place brackets around operators and the previous two operands, then move the 2nd operand to the right of the operator, rinse and repeat.
