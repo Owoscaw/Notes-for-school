@@ -32,3 +32,7 @@ Another method of translation is by using a binary tree. This works by building 
 One method of converting RPN expression into infix expressions is through scanning. This works by scanning left to right, picking out pairs of operands and single operators. Using brackets between operands makes this clear.
 
 Another method of converting RPN to infix is by bracketing. This is very similar to converting infix to RPN. Place brackets around operators and the previous two operands, then move the 2nd operand to the right of the operator, rinse and repeat.
+
+## RPN with stack:
+
+RPN expressions are easily evaluated using a stack. If a token is an operand, it is pushed onto the stack. If it is an operator, the required amount of operands are popped from the stack, the operation is peformed and then pushed onto the stack
