@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8294e45cc13b5bf3",
+            "id": "466e455965de9f20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Unit 9 - Regular Languages/Reverse Polish Notation.md",
+                "file": "Physics/Fields and their consequences/Capacitance.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
-    "collapsed": true
+    "width": 339.5
   },
   "right": {
     "id": "22b81e9e769aa80e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science/Unit 9 - Regular Languages/Reverse Polish Notation.md",
+                "file": "Physics/Fields and their consequences/Capacitance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,10 +112,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8294e45cc13b5bf3",
+  "active": "466e455965de9f20",
   "lastOpenFiles": [
-    "Computer science/Unit 12 - OOP and Functional Programming/Big Data.md",
+    "Physics/Fields and their consequences/Electric Fields.md",
+    "Physics/Fields and their consequences/Capacitance.md",
+    "Physics/Fields and their consequences/Gravitational fields.md",
     "Computer science/Unit 9 - Regular Languages/Reverse Polish Notation.md",
+    "Computer science/Unit 12 - OOP and Functional Programming/Big Data.md",
     "Computer science/Unit 3 - Data Representation/Compression and Encryption.md",
     "Computer science/Unit",
     "Computer science/Unit 3 - Data Representation/Representation of Sound.md",
