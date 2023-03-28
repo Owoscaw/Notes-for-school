@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Fields and their consequences/Capacitance.md",
+                "file": "Computer science/Unit 12 - OOP and Functional Programming/Functional programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Fields and their consequences/Capacitance.md",
+                "file": "Computer science/Unit 12 - OOP and Functional Programming/Functional programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,10 +113,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8b647f02250de508",
+  "active": "466e455965de9f20",
   "lastOpenFiles": [
-    "Physics/Fields and their consequences/Electric Fields.md",
     "Physics/Fields and their consequences/Capacitance.md",
+    "Physics/Fields and their consequences/Electric Fields.md",
     "Physics/Fields and their consequences/Gravitational fields.md",
     "Computer science/Unit 9 - Regular Languages/Reverse Polish Notation.md",
     "Computer science/Unit 12 - OOP and Functional Programming/Big Data.md",
