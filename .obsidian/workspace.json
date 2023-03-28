@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 339.5,
+    "collapsed": true
   },
   "right": {
     "id": "22b81e9e769aa80e",
@@ -112,7 +113,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "466e455965de9f20",
+  "active": "8b647f02250de508",
   "lastOpenFiles": [
     "Physics/Fields and their consequences/Electric Fields.md",
     "Physics/Fields and their consequences/Capacitance.md",
