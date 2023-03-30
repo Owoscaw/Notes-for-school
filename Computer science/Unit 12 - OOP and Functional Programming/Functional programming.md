@@ -16,6 +16,16 @@ This is equivalent to the haskell code:
 ```haskell
 squareNumber x = x*x
 ```
+The process of applying parameters to a function is known as function application, the following represents the application of argument 5 to the function squareNumber:
+```haskell
+squareNumber 5
+```
+When a function is defined to take multiple parameters, only one parameter is actually passed. For example:
+```haskell
+add3Integers :: integer -> integer -> integer
+add3Integers x y z = x + y + z
+```
+add3Integers is applied to the first argument, creating a function that will add $x$ to the next two parameters, $y$ and $z$. The process repeats with the next two parameters, add3Integers is applied to $y$, creating a function that will add ($x+y$) to the final parameter. Finally, add3Integers is applied to $z$, returning the sume of $x,y$ and $z$. Only one argument is processed at a time.
 
 
 ## Domain + Co-domain:
@@ -62,3 +72,34 @@ Error - 7.5 is not type Int
 \> isEqual fish paste
 Error - fish is not type Int
 Error - paste is not type Int
+
+
+## First class objects / statelessness:
+
+First class objects may appear in expressions, be assigned to a variable, be assigned to an argument, or be returned from a function call. All normal data types are first class objects (int, char, e.c.t), as well as functions.
+
+In functional programming, the value of a variable cannot change. All variables are immutable, the program is said to be stateless.
+
+The only thing a function can do is calculate something and return the result. It has no "side effects". A consequence of not be able to change the value of a variable is that when a function is called with the same parameters, it will return the same result no matter what.
+
+## Higher order functions (map, filter, fold):
+
+A function is a higher order function if it takes a function as a parameter or returns a function as a result (or both). Map and fold are both higher order functions.
+
+The map function takes a list, as well as a function to apply to every element in the list. Map then returns a list of elements after they have been passed through the function passed:
+```haskell
+map (max 3)[1,2,3,4,5]
+```
+This will return a list $[3, 3, 3, 4, 5]$.
+
+Filter is a higher order function that takes a predicate (boolean condition) and a list. It returns elements within the list that satisfy the condition specified:
+```haskell
+filter (>3)[1, 2, 3, 4, 5]
+```
+This will return $[4, 5]$.
+
+Fold (reduce) is a higher order function that reduces a list to a single function using recursion. For example:
+```haskell
+foldl (+) 0 [2, 3, 4, 5]
+```
+Is equivalent to $0+2+3+4+5$
