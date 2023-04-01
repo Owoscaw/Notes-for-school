@@ -1,13 +1,9 @@
 
-How has our connected, online world enables us to distribute personal information. Facebook collects vast amounts of personal data. This data is used to create personal advertisements that are designed to sell as much product as possible. Goblins are real. 
-
-There are many disadvangeges to social media, like internet trolling, cyberbullying, anonymous blogs, and hate sites (reddit).
+How has our connected, online world enables us to distribute personal information. Facebook collects vast amounts of personal data. This data is used to create personal advertisements that are designed to sell as much product as possible.
 
 While the internet is a free for all, if a law is broken in your operating country, you can still be persecuted according to said law despite actions being on the internet. Many government agencies therefore monitor its citizens internet use. Technology can be used to make the world a better place, as well as for malicious intent (hate crimes). This begs the question if morality should be a factor in technological design. 
 
-ICT systems are now being used to determine healthcare availability and education eligibility, so these systems can heavily affect one's future. Driverless cars will be real soon. Any product developed can be used for harm, but should the developer of said product be to blame??
-
-Should the inventor of reddit be held accountable for the atrocities that take place on a daily basis on that cess pit of a website?
+ICT systems are now being used to determine healthcare availability and education eligibility, so these systems can heavily affect one's future. Driverless cars will be real soon. Any product developed can be used for harm, but should the developer of said product be to blame?
 
 Software and algorithms made by humans are taking over decisions that humans used to make, this can include online advertisements, maps, crime hotspots (based off crime rate and reoffending rates). However, this suggests that algorithms can make ethical decisions, which may not be true as computer algorithms are based on complex rules that can make it challenging to predict their decisions, which may not always align with the human definition of "moral". A decision that a computer makes is only as based as the data that it uses.
 

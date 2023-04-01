@@ -8,4 +8,5 @@ Some common orders for algorithms are:
 \> Linear, $k$
 \> Quadratic, $k^{2}$
 \> Cubic, $k^{3}$
-\> Exponential, $n^{k}$
+\> Exponential, $a^{k}$
+\> Factorial, $k!$
