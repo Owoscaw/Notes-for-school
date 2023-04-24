@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Unit 12 - OOP and Functional Programming/Functional programming.md",
+                "file": "Computer science/Unit 2 - Problem Solving/History of programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
-    "collapsed": true
+    "width": 339.5
   },
   "right": {
     "id": "22b81e9e769aa80e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science/Unit 12 - OOP and Functional Programming/Functional programming.md",
+                "file": "Computer science/Unit 2 - Problem Solving/History of programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +114,21 @@
   },
   "active": "466e455965de9f20",
   "lastOpenFiles": [
+    "Computer science/Unit 2 - Problem Solving/Computational thinking.md",
+    "Computer science/Unit 2 - Problem Solving/Testing code.md",
+    "Computer science/Unit 2 - Problem Solving/Searching algorithms.md",
+    "Computer science/Unit 2 - Problem Solving/History of programming.md",
+    "Computer science/Unit 2 - Problem Solving/Finite state machines.md",
+    "Computer science/Unit 2 - Problem Solving/Algorithm Design.md",
+    "Computer science/Unit 2 - Problem Solving/Algorithms.md",
+    "Computer science/Unit 7 - Data Structures/Trees.md",
+    "Computer science/Unit 8 - Algorithms/Graph traversal algorithms.md",
+    "Computer science/Unit 8 - Algorithms/Big O notation.md",
+    "Computer science/Unit 8 - Algorithms/Limits of Computation.md",
+    "Computer science/Unit 8 - Algorithms/Optimisation algorithms.md",
+    "Computer science/Unit 8 - Algorithms/Searching and Sorting.md",
+    "Computer science/Unit 7 - Data Structures/Graphs.md",
+    "Computer science/Unit 12 - OOP and Functional Programming/Functional programming.md",
     "Physics/Fields and their consequences/Capacitance.md",
     "Physics/Fields and their consequences/Electric Fields.md",
     "Physics/Fields and their consequences/Gravitational fields.md",
@@ -127,10 +141,7 @@
     "Computer science/Unit 7 - Data Structures/Stacks and call stack.md",
     "Computer science/Unit 3 - Data Representation",
     "Computer science/Unit 7 - Data Structures/Queues and ADTs.md",
-    "Computer science/Unit 7 - Data Structures/Graphs.md",
-    "Computer science/Unit 8 - Algorithms/Limits of Computation.md",
     "Computer science/Unit 8 - Algorithms/problems.png",
-    "Computer science/Unit 8 - Algorithms/Graph traversal algorithms.md",
     "Computer science/Unit 8 - Algorithms/BFS9.png",
     "Computer science/Unit 8 - Algorithms/BFS8.png",
     "Computer science/Unit 8 - Algorithms/BFS7.png",
@@ -140,14 +151,6 @@
     "Computer science/Unit 8 - Algorithms/BFS3.png",
     "Computer science/Unit 8 - Algorithms/BFS2.png",
     "Computer science/Unit 9 - Regular Languages/Backus-Naur.md",
-    "Computer science/Unit 1 - Fundamentals of Programming/Selection.md",
-    "Computer science/Unit 1 - Fundamentals of Programming/Programming basics.md",
-    "Computer science/Unit 6 - Communications/Data transmission.md",
-    "Computer science/Unit 6 - Communications/Wireless connections.md",
-    "Computer science/Unit 6 - Communications/Network topologies.md",
-    "Computer science/Unit 6 - Communications/Social and legal issues.md",
-    "Computer science/Unit 6 - Communications/Network models.md",
-    "Computer science/Unit 6 - Communications/Communication and privacy.md",
-    "Computer science/Unit 8 - Algorithms/Big O notation.md"
+    "Computer science/Unit 1 - Fundamentals of Programming/Selection.md"
   ]
 }
