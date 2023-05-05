@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Unit 5 - Computational Organisation/CPU and fetch-execute cycle.md",
+                "file": "Computer science/Unit 11 - Databases/Relational databases and normalisation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science/Unit 5 - Computational Organisation/CPU and fetch-execute cycle.md",
+                "file": "Computer science/Unit 11 - Databases/Relational databases and normalisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,16 @@
   },
   "active": "466e455965de9f20",
   "lastOpenFiles": [
+    "Computer science/Unit 11 - Databases/Introduction to SQL.md",
+    "Computer science/Unit 11 - Databases/Entities and relationship modelling.md",
+    "Computer science/Unit 11 - Databases/Defining and updating SQL databases.md",
+    "Computer science/Unit 5 - Computational Organisation/CPU and fetch-execute cycle.md",
     "Computer science/Unit 10 - The Internet/HTTP methods and data (JSON and XML).md",
     "Computer science/Unit 12 - OOP and Functional Programming/OOP design principles.md",
     "Computer science/Unit 12 - OOP and Functional Programming/Functional programming.md",
     "Computer science/Unit 12 - OOP and Functional Programming/Big Data.md",
     "Computer science/Unit 12 - OOP and Functional Programming/Basic concepts of OOP.md",
-    "Computer science/Unit 11 - Databases/Introduction to SQL.md",
     "Computer science/Unit 11 - Databases/Relational databases and normalisation.md",
-    "Computer science/Unit 11 - Databases/Entities and relationship modelling.md",
-    "Computer science/Unit 11 - Databases/Defining and updating SQL databases.md",
     "Computer science/Unit 2 - Problem Solving/History of programming.md",
     "Computer science/Unit 2 - Problem Solving/Computational thinking.md",
     "Computer science/Unit 2 - Problem Solving/Testing code.md",
@@ -139,7 +140,6 @@
     "Computer science/Unit 7 - Data Structures/Graphs.md",
     "Physics/Fields and their consequences/Capacitance.md",
     "Physics/Fields and their consequences/Electric Fields.md",
-    "Physics/Fields and their consequences/Gravitational fields.md",
     "Computer science/Unit",
     "Computer science/Unit 3 - Data Representation/Nyquist's theorem.png",
     "Computer science/Unit 3 - Data Representation",
