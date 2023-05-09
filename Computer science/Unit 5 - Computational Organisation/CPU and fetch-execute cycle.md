@@ -18,7 +18,7 @@ The fetch execute cycle is the process that is repeated for every instruction th
 
 
 ## Fetch:
-In the fetch part of the cycle, the address of the next instruction is fetched from the program counter, which is then incremented by one. The address is transferred to the memory address register  where it is then sent along the address bus to main memory along with a control signal where the next instruction is sent from main memory to the memory buffer register. After the next instruction has been received, it is transferred to the current instruction register.
+In the fetch part of the cycle, the address of the next instruction is copied from the program counter, which is then incremented by one. The address is transferred to the memory address register,  where it is then sent along the address bus to main memory along with a control signal (read) on the control bus. This reaches memory, where the next instruction is fetched from the adress specified by the CPU. The contents of this address are then sent along the data bus to the CPU, where it is stored in the Memory Buffer Register. After the next instruction has been received, it is transferred to the current instruction register.
 
 ## Decode:
 Now that the instruction is in the current instruction register, it is decoded. The action that now needs to be carried out is determined by the contents of the instruction compared to the [[Processor instruction set]]. If additional data is required to complete the decoded instruction, the memory address register and memory buffer register are used to load this data into the ALU and associated registers.

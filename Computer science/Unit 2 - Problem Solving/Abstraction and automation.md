@@ -3,12 +3,14 @@ Abstraction is an important tool in problem solving. One aspect of abstraction i
 
 Automation is the building of models of real world objects and phenomenon in order to solve it computationally. Computer scientists have to decide relevant details and discard everything else. Algorithms and data structures can then be designed to solve the problem. In the example of modelling traffic flow, an example of a data structure would be a car with certain characteristics, an example of an algorithm would be the a description of how a car moves through a road.
 
-Algorithms used to solve a problem are far removed from the machine code that actually executes the instructions. For example, IF x > Y: print(x) would be about 7 lines of 1s and 0s.
+Generalisation is a technique that allows for an abstracted solution to be applied to other problems, as any information making it unique to a specific problem has been removed.
 
-Procedural abstraction is used to keep actually values involved in computations separate from overall design. This involves writing procedures, and passing parameters in order to perform computation. A car dealer, for example, may use a procedure for displaying a particular model of car, and pass parameters for the details of said car. Values are not returned to the main program when using procedural abstraction, a block of code is ran based upon the variables parsed into it.
+# Procedural Abstraction:
 
-Functional abstraction is when a function is called to called in order to perform an operations and return a value. This does not require knowledge on how the function works.
+Procedural abstraction is used to keep actually values involved in computations separate from overall design. This involves writing procedures, and passing parameters in order to perform computation. A car dealer, for example, may use a procedure for displaying a particular model of car, and pass parameters for the details of said car. Values are not returned to the main program when using procedural abstraction, a block of code is run based upon the variables parsed into it.
 
-Data abstraction is when the data or information relevant to a problem is in the form of an abstract data structure such as an array. A stack is an example of a data structure where items can only be added to or removed from the top. This could be implemented as an array with pointers to the top of the stack.
+# Representational Abstraction:
+
+Representational abstraction is what remains once all uncecessary information has been removed from a problem. The problem is fully represented for the needs of the program.
 
 
