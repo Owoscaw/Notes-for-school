@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Nuclear physics/Nuclear instability.md",
+                "file": "Physics/Nuclear physics/Nuclear radius.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Nuclear physics/Nuclear instability.md",
+                "file": "Physics/Nuclear physics/Nuclear radius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,27 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "356353d788229a95",
+  "active": "8b647f02250de508",
   "lastOpenFiles": [
-    "Physics/Particles and Radiation/Particle interactions.md",
-    "Physics/Particles and Radiation/Electron atom collisions.md",
-    "Physics/Particles and Radiation/Constituents of the atom.md",
+    "Physics/Nuclear physics/Electron diffraction pattern.png",
+    "Physics/Nuclear physics/Electron diffraction.png",
     "Physics/Nuclear physics/Nuclear instability.md",
+    "Physics/Nuclear physics/Nuclear radius.md",
+    "Physics/Nuclear physics/Uranium-Thorium decay.png",
+    "Physics/Nuclear physics/N-Z curve.png",
+    "Physics/Particles and Radiation/Stable and unstable nuclei.md",
+    "Physics/Particles and Radiation/N-Z curve.png",
+    "Physics/Particles and Radiation/Constituents of the atom.md",
+    "Physics/Particles and Radiation/Wave-particle duality.md",
+    "Physics/Particles and Radiation/The photoelectric effect.md",
+    "Physics/Particles and Radiation/Quarks and antiquarks.md",
+    "Physics/Particles and Radiation/Particles, antiparticles, and photons.md",
+    "Physics/Particles and Radiation/Particle interactions.md",
+    "Physics/Particles and Radiation/Energy levels and photon emission.md",
+    "Physics/Particles and Radiation/Electron atom collisions.md",
+    "Physics/Particles and Radiation/Classification of particles.md",
     "Physics/Nuclear physics/Radioactivity.md",
     "Physics/Nuclear physics/Radioactive decay.md",
-    "Physics/Particles and Radiation/Stable and unstable nuclei.md",
     "Computer science/Unit 10 - The Internet/Security on the internet.md",
     "Physics/Nuclear physics",
     "Computer science/Unit 10 - The Internet/Protocol stack and web pages.md",
@@ -141,14 +153,6 @@
     "Computer science/Unit 6 - Communications/Data transmission.md",
     "Computer science/Unit 6 - Communications/Communication and privacy.md",
     "Computer science/Unit 5 - Computational Organisation/Stored program concept.md",
-    "Computer science/Unit 5 - Computational Organisation/Internal hardware.md",
-    "Computer science/Unit 5 - Computational Organisation/CPU and fetch-execute cycle.md",
-    "Computer science/Unit 3 - Data Representation/Floating point binary.md",
-    "Computer science/Unit 9 - Regular Languages/Regular Expressions.md",
-    "Computer science/Unit 2 - Problem Solving/Abstraction and automation.md",
-    "Computer science/Unit 11 - Databases/Relational databases and normalisation.md",
-    "Computer science/Unit 11 - Databases/Introduction to SQL.md",
-    "Computer science/Unit 11 - Databases/Entities and relationship modelling.md",
     "Computer science/Unit",
     "Computer science/Unit 3 - Data Representation/Nyquist's theorem.png",
     "Computer science/Unit 3 - Data Representation",
@@ -156,10 +160,6 @@
     "Computer science/Unit 8 - Algorithms/BFS9.png",
     "Computer science/Unit 8 - Algorithms/BFS8.png",
     "Computer science/Unit 8 - Algorithms/BFS7.png",
-    "Computer science/Unit 8 - Algorithms/BFS6.png",
-    "Computer science/Unit 8 - Algorithms/BFS5.png",
-    "Computer science/Unit 8 - Algorithms/BFS4.png",
-    "Computer science/Unit 8 - Algorithms/BFS3.png",
-    "Computer science/Unit 8 - Algorithms/BFS2.png"
+    "Computer science/Unit 8 - Algorithms/BFS6.png"
   ]
 }
