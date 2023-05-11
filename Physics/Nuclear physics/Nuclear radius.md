@@ -14,4 +14,9 @@ This set up is identical to the [[Refraction, diffraction, and interference|diff
 $$\Huge d\,sin\theta=n\lambda$$
 This is adapted to fit the scenario by rearranging and replacing variables:
 $$\Huge sin\theta=\frac{0.61\lambda}{R}$$
-Where $\theta$ is the diffraction angle, $\lambda$ is the de broglie wavelength of the electron, and $R$ is the nuclear radius.
+Where $\theta$ is the diffraction angle, $\lambda$ is the de broglie wavelength of the electron, and $R$ is the nuclear radius. This experiment showed that the nuclear radius for any nucleus was about $10^{-15}m$, however this value varies with the amount of nucleons in the nucleus. The radius of any nucleus is given by:
+$$\Huge R=R_0A^{\frac{1}{3}}$$
+Where $R$ is nuclear radius, $R_0$ is a constant with a value of about $1.4fm$, and $A$ is the number of nucleons. Using this formula, it can be shown that nuclear density is the same for any nucleus:
+$$\large \rho_{nuclear} = \frac{m}{v}=\frac{A\times m_{nucleon}}{\frac{4}{3}\pi R^3}=\frac{3A\,m_{nucleon}}{4\pi \left(R_0A^{\frac{1}{3}}\right)^3}=\frac{3Am_{nucleon}}{4\pi R_0^3A}=\frac{3m_{nucleon}}{4\pi R_0^3}=k$$
+Since $m_{nucleon}$ and $R_0$ are constants, $\rho_{nuclear}$ must also be a constant. This can be caluclated to show that nuclear density is about $1.45\times10^{17}kg\,m^{-3}$. 
+
