@@ -2,7 +2,8 @@ The strong nuclear force is a fundamental force that keeps nuclei stable by prov
 ![[SNF.png|400]]
 
 
-A nucleus becomes unstable when it has too many or too little of either protons or neutrons, the most massive [[Constituents of the atom]]. Too many protons causes the electromagnetic force to overcome the strong nuclear force, too many neutrons causes nucleons to become too close together to the point where the strong nuclear force is repulsive.
+A nucleus becomes unstable when it has too many or too little of either protons or neutrons, the most massive [[Constituents of the atom]]. Too many protons causes the electromagnetic force to overcome the strong nuclear force, too many neutrons causes nucleons to become too close together to the point where the strong nuclear force is repulsive:
+![[Physics/Particles and Radiation/N-Z curve.png|1000]]
 
 Alpha decay occurs in unstable nuclei with too many of both protons and neutrons. An alpha particle of 2 neutrons and 2 protons is emitted from the nucleus:
 $$\Huge_{Z}^{A}X\longrightarrow_{Z-2}^{A-4}Y+\,_{2}^{4}\alpha$$

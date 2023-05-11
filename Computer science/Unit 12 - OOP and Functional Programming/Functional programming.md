@@ -102,4 +102,4 @@ Fold (reduce) is a higher order function that reduces a list to a single functio
 ```haskell
 foldl (+) 0 [2, 3, 4, 5]
 ```
-Is equivalent to $0+2+3+4+5$
+Is equivalent to $0+2+3+4+5$ which is equal to 14. There exists two version of fold, foldl and foldr. These determine where to start the recursion from. Foldl starts from the leftmost value, foldr starts from the rightmost value.
