@@ -124,15 +124,16 @@
   "lastOpenFiles": [
     "Physics/Nuclear physics/Mass and Energy.md",
     "Physics/Nuclear physics/Fission and Fusion.md",
+    "Physics/Nuclear physics/stability curve.png",
+    "Physics/Particles and Radiation/Particle interactions.md",
+    "Physics/Particles and Radiation/Constituents of the atom.md",
     "Physics/Particles and Radiation/Wave-particle duality.md",
     "Physics/Particles and Radiation/The photoelectric effect.md",
     "Physics/Particles and Radiation/Stable and unstable nuclei.md",
     "Physics/Particles and Radiation/Quarks and antiquarks.md",
     "Physics/Particles and Radiation/Particles, antiparticles, and photons.md",
-    "Physics/Particles and Radiation/Particle interactions.md",
     "Physics/Particles and Radiation/Energy levels and photon emission.md",
     "Physics/Particles and Radiation/Electron atom collisions.md",
-    "Physics/Particles and Radiation/Constituents of the atom.md",
     "Physics/Particles and Radiation/Classification of particles.md",
     "Physics/Particles and Radiation/Applications of conservation laws.md",
     "Physics/Turning Points/Special relativity/Einstein's Theory of Special Relativity.md",
@@ -153,13 +154,11 @@
     "Computer science/Unit 10 - The Internet/Packet switching and Routers.md",
     "Computer science/Unit 10 - The Internet/IP adresses.md",
     "Computer science/Unit 6 - Communications/Wireless connections.md",
-    "Computer science/Unit 6 - Communications/Social and legal issues.md",
     "Computer science/Unit",
     "Computer science/Unit 3 - Data Representation/Nyquist's theorem.png",
     "Computer science/Unit 3 - Data Representation",
     "Computer science/Unit 8 - Algorithms/problems.png",
     "Computer science/Unit 8 - Algorithms/BFS9.png",
-    "Computer science/Unit 8 - Algorithms/BFS8.png",
-    "Computer science/Unit 8 - Algorithms/BFS7.png"
+    "Computer science/Unit 8 - Algorithms/BFS8.png"
   ]
 }
