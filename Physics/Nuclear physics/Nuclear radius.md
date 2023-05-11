@@ -10,3 +10,8 @@ Electrons do not interact with nucleons through the strong nuclear force, as the
 ![[Physics/Nuclear physics/Electron diffraction.png]]
 This produces a pattern similar to this graph:
 ![[Electron diffraction pattern.png|450]]
+This set up is identical to the [[Refraction, diffraction, and interference|diffraction grating]] experiment, so the formula below can be used:
+$$\Huge d\,sin\theta=n\lambda$$
+This is adapted to fit the scenario by rearranging and replacing variables:
+$$\Huge sin\theta=\frac{0.61\lambda}{R}$$
+Where $\theta$ is the diffraction angle, $\lambda$ is the de broglie wavelength of the electron, and $R$ is the nuclear radius.

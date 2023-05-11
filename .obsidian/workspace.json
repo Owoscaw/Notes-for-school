@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d421f6f4b0e03f83",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,12 +131,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8b647f02250de508",
+  "active": "d421f6f4b0e03f83",
   "lastOpenFiles": [
+    "Physics/Waves/Refraction, diffraction, and interference.md",
+    "Physics/Waves/Principle of superposition and stationary waves.md",
+    "Physics/Nuclear physics/Nuclear radius.md",
     "Physics/Nuclear physics/Electron diffraction pattern.png",
     "Physics/Nuclear physics/Electron diffraction.png",
     "Physics/Nuclear physics/Nuclear instability.md",
-    "Physics/Nuclear physics/Nuclear radius.md",
     "Physics/Nuclear physics/Uranium-Thorium decay.png",
     "Physics/Nuclear physics/N-Z curve.png",
     "Physics/Particles and Radiation/Stable and unstable nuclei.md",
@@ -152,14 +165,12 @@
     "Computer science/Unit 6 - Communications/Network models.md",
     "Computer science/Unit 6 - Communications/Data transmission.md",
     "Computer science/Unit 6 - Communications/Communication and privacy.md",
-    "Computer science/Unit 5 - Computational Organisation/Stored program concept.md",
     "Computer science/Unit",
     "Computer science/Unit 3 - Data Representation/Nyquist's theorem.png",
     "Computer science/Unit 3 - Data Representation",
     "Computer science/Unit 8 - Algorithms/problems.png",
     "Computer science/Unit 8 - Algorithms/BFS9.png",
     "Computer science/Unit 8 - Algorithms/BFS8.png",
-    "Computer science/Unit 8 - Algorithms/BFS7.png",
-    "Computer science/Unit 8 - Algorithms/BFS6.png"
+    "Computer science/Unit 8 - Algorithms/BFS7.png"
   ]
 }

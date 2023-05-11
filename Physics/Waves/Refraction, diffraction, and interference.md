@@ -1,4 +1,4 @@
-Interference:
+# Interference:
 
 Path difference is the difference in distance travelled by two waves. See [[Progressive waves]] for information on phase difference. A coherent source has the same frequency and wavelength, as well as a fixed phase difference between the two. A laser is an example of a coherent source, the light emitted is monochromatic and only emits a single wavelength of light. Lasers are used as sources in diffraction experiments, as they tend to form clear interference patterns.
 
@@ -20,7 +20,7 @@ The same phenomenon can be observed with sound waves by placing two coherent spe
 
 Young's slit experiment was initally evidence to support that light has wave-like properties and was used to deduce that EM waves exhibit wave-like properties.
 
-Diffraction:
+# Diffraction:
 
 Diffraction is the spreading out of waves when they pass through or around a gap. The greatest diffraction occurs when the gap is the same length as the wavelength. As the gap gets increasingly small, the amount of the wave reflected instead of diffracted becomes increasingly greater. There is noticably less diffraction when the gap is larger than the wavelength.
 
