@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d79a1f6196e473df",
+        "id": "97bfed5dda20f006",
         "type": "tabs",
         "children": [
           {
-            "id": "58255a067c0f2d4c",
+            "id": "ed7d319f2f46b11d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Nuclear physics/Fission and Fusion.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -52,27 +56,37 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "81dc835e339070ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 286
+    "width": 286,
+    "collapsed": true
   },
   "right": {
     "id": "c37bda731e3fb27c",
     "type": "split",
     "children": [
       {
-        "id": "fcc0bc63aa36c6d4",
+        "id": "1c1144ce2d737583",
         "type": "tabs",
         "children": [
           {
-            "id": "18f3884c229fdc69",
+            "id": "cb6881fa15b164f2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physics/Nuclear physics/Fission and Fusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +98,7 @@
             }
           },
           {
-            "id": "5f88d555e419260a",
+            "id": "9f53588e39f01783",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -96,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -107,22 +122,44 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "58255a067c0f2d4c",
+  "active": "916279bb03a52dbe",
   "lastOpenFiles": [
+    "Physics/Nuclear physics/Mass and Energy.md",
+    "Physics/Nuclear physics/Fission and Fusion.md",
     "conflict-files-obsidian-git.md",
-    "Physics/Waves/Diffraction grating proof.png",
-    "Computer science/Unit 8 - Algorithms/Recursive algorithms.md",
-    "Computer science/Unit 8 - Algorithms/Optimisation algorithms.md",
-    "Computer science/Unit 8 - Algorithms/Graph traversal algorithms.md",
-    "Computer science/Unit 7 - Data Structures/Queues and ADTs.md",
-    "Physics/Turning Points/Special relativity/Einstein's Theory of Special Relativity.md",
-    "Computer science/Unit 1 - Fundamentals of Programming/Selection.md",
-    "Computer science/Unit 9 - Regular Languages/Mealy machines.md",
-    "Computer science/Unit 2 - Problem Solving/Finite state machines.md",
-    "Computer science/Unit 2 - Problem Solving/FSM.png",
-    "Computer science/Unit 11 - Databases/Systematic approach to software development.md",
-    "Mathematics/Further/Decision/Graphs and Networks/Travelling salesman problem lower bound.md",
-    "Mathematics/Further/Decision/Graphs and Networks/Travelling salesman problem.md",
-    "Mathematics/Further/Decision/Graphs and Networks/Travelling salesman problem upper bound.md"
+    "Physics/Nuclear physics/stability curve.png",
+    "Physics/Nuclear physics/Nuclear instability.md",
+    "Computer science/Unit 9 - Regular Languages/Regular Expressions.md",
+    "Physics/Particles and Radiation/N-Z curve.png",
+    "Physics/Nuclear physics/Uranium-Thorium decay.png",
+    "Physics/Nuclear physics/Radioactive decay.md",
+    "Physics/Nuclear physics/Radioactivity.md",
+    "Physics/Nuclear physics/Nuclear radius.md",
+    "Physics/Nuclear physics/N-Z curve.png",
+    "Physics/Nuclear physics/Electron diffraction.png",
+    "Physics/Nuclear physics/Electron diffraction pattern.png",
+    "Physics/Nuclear physics",
+    "Computer science/Unit 5 - Computational Organisation/Stored program concept.md",
+    "Computer science/Unit 3 - Data Representation/Floating point binary.md",
+    "Computer science/Unit 10 - The Internet/Structure and URLs.md",
+    "Computer science/Unit 10 - The Internet/Packet switching and Routers.md",
+    "Computer science/Unit 2 - Problem Solving/Abstraction and automation.md",
+    "Computer science/Unit 11 - Databases/Defining and updating SQL databases.md",
+    "Computer science/Unit 10 - The Internet/Security on the internet.md",
+    "Computer science/Unit 10 - The Internet/Routing and Network address translation (NAT).md",
+    "Computer science/Unit 10 - The Internet/Protocol stack and web pages.md",
+    "Computer science/Unit 10 - The Internet/Malware and hackers.md",
+    "Computer science/Unit 10 - The Internet/IP adresses.md",
+    "Computer science/Unit 10 - The Internet/HTTP methods and data (JSON and XML).md",
+    "Computer science/Unit 10 - The Internet/DHCP.md",
+    "Computer science/Unit 10 - The Internet/Client server model.md",
+    "Computer science/Unit 9 - Regular Languages/The Turing Machine.md",
+    "Computer science/Unit 9 - Regular Languages/Sets.md",
+    "Computer science/Unit 9 - Regular Languages/Reverse Polish Notation.md",
+    "Computer science/Unit 8 - Algorithms/problems.png",
+    "Computer science/Unit 8 - Algorithms/graph DFS.png",
+    "Computer science/Unit 8 - Algorithms/graph BFS.png",
+    "Computer science/Unit 8 - Algorithms/BFS9.png",
+    "Computer science/Unit 3 - Data Representation"
   ]
 }
