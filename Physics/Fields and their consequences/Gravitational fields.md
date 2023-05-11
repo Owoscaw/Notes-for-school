@@ -42,7 +42,8 @@ $$\Large v^2=\frac{GMmr}{mr^2}=\frac{GM}{r}=\omega^2r^2$$
 $$\Large \frac{4\pi^2r^2}{T^2}=\frac{GM}{r}$$
 $$\Large 4\pi^2r^3=GMT^2$$
 $$\Large T^2=\frac{4\pi^2}{GM}r^3$$
-The total energy of a satellite in orbit is equal to the sum of its kinetic and potential energies. This remains constant, as when potential energy decreases, kinetic will increase (lower orbit means faster velocity)
+The total energy of a satellite in orbit is equal to the sum of its kinetic and potential energies. This remains constant, as when potential energy decreases, kinetic will increase (lower orbit means faster velocity).
+
 
 ## Escape velocity:
 
