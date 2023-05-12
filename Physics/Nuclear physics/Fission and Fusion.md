@@ -40,7 +40,13 @@ Coolant absorbs the heat released by fission in the reactor core. This heat is u
 
 When uranium is mined, it is 99% U-238. It needs to be enriched to the point where it is between 3-5% U-235. This is considered reactor grade uranium and is used for fission. The remaining U-238 in the fuel absorbs fission neutrons and can help control the rate of fission reactions.
 
-Control rods are lowered into the core remotely to limit radioactive exposure to workers. The reactor is also covered in thick concrete to avoid radiation escaping to the rest of the power plant. In an emergency, the control rods are fully dropped into the core, absorbing all neutrons and stopping any more fission reactions from propagating. This is what failed 
+Control rods are lowered into the core remotely to limit radioactive exposure to workers. The reactor is also covered in thick concrete to avoid radiation escaping to the rest of the power plant. In an emergency, the control rods are fully dropped into the core, absorbing all neutrons and stopping any more fission reactions from propagating. This is what failed in the fukushima nuclear disaster.
+
+The product nuclei from the nuclear fission of uranium-235 are extremely unstable and are very radioactive. This makes used fuels rods extremely dangerous to human life, known as high level waste. Low level waste includes tools and other equiptment that have been irradiated by exposure to the nuclear reactor core. This type of waste will not take a long time to decay to the point where it is no longer radioactive. High level waste stays radioactive for thousands and thousands of years.
+
+## Waste management:
+
+High level waste produced from fission needs to be managed safely to avoid contamination. Firstly, the rods are placed in cooling ponds for the heat to dispers, then any uranium or plutonium that remains in the spent fuel rods is extracted and recycled. Once all usable material has been extracted, the waste is encased in glass and placed inside a thick steel cask and stored in deep caverns. This minimises the risk of radioactive material leaking out and contaminating the environment,
 
 
 # Fusion:

@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "6551bceaa74fb895",
+    "id": "10d15ac72bd5f85f",
     "type": "split",
     "children": [
       {
-        "id": "97bfed5dda20f006",
+        "id": "a8c4f58ba7748f77",
         "type": "tabs",
         "children": [
           {
-            "id": "ed7d319f2f46b11d",
+            "id": "356353d788229a95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Nuclear physics/Fission and Fusion.md",
+                "file": "Physics/Fields and their consequences/Capacitance/Charge and Discharge.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ca4a6481aaaea967",
+    "id": "97134d958ab3299d",
     "type": "split",
     "children": [
       {
-        "id": "ef05bfaf117aa339",
+        "id": "e699c124288d7348",
         "type": "tabs",
         "children": [
           {
-            "id": "916279bb03a52dbe",
+            "id": "8b647f02250de508",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "8a0fcd48d00524fc",
+            "id": "0922b4d96fcd0814",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,15 @@
             }
           },
           {
-            "id": "81dc835e339070ab",
+            "id": "e5c371240f5c0b91",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "749921828ca4cae2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,24 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286,
-    "collapsed": true
+    "width": 339.5
   },
   "right": {
-    "id": "c37bda731e3fb27c",
+    "id": "22b81e9e769aa80e",
     "type": "split",
     "children": [
       {
-        "id": "1c1144ce2d737583",
+        "id": "f1a58282a935cb59",
         "type": "tabs",
         "children": [
           {
-            "id": "cb6881fa15b164f2",
+            "id": "c54a2d8b6e9fe9d0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Nuclear physics/Fission and Fusion.md",
+                "file": "Physics/Fields and their consequences/Capacitance/Charge and Discharge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +103,8 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "9f53588e39f01783",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,44 +120,47 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "916279bb03a52dbe",
+  "active": "356353d788229a95",
   "lastOpenFiles": [
-    "Physics/Nuclear physics/Mass and Energy.md",
+    "Physics/Fields and their consequences/Capacitance/Parallel plates and dielectrics.md",
+    "Physics/Fields and their consequences/Capacitance/Charge and Discharge.md",
+    "Physics/Fields and their consequences/Capacitance",
+    "Physics/Fields and their consequences/Electric Fields.md",
+    "Physics/Fields and their consequences/polar molecules.png",
+    "Physics/Fields and their consequences/parallel plate capacitor.png",
     "Physics/Nuclear physics/Fission and Fusion.md",
-    "conflict-files-obsidian-git.md",
+    "Physics/Nuclear physics/Mass and Energy.md",
     "Physics/Nuclear physics/stability curve.png",
-    "Physics/Nuclear physics/Nuclear instability.md",
-    "Computer science/Unit 9 - Regular Languages/Regular Expressions.md",
-    "Physics/Particles and Radiation/N-Z curve.png",
-    "Physics/Nuclear physics/Uranium-Thorium decay.png",
-    "Physics/Nuclear physics/Radioactive decay.md",
-    "Physics/Nuclear physics/Radioactivity.md",
+    "Physics/Particles and Radiation/Particle interactions.md",
+    "Physics/Particles and Radiation/Constituents of the atom.md",
+    "Physics/Particles and Radiation/Wave-particle duality.md",
+    "Physics/Particles and Radiation/The photoelectric effect.md",
+    "Physics/Particles and Radiation/Stable and unstable nuclei.md",
+    "Physics/Particles and Radiation/Quarks and antiquarks.md",
+    "Physics/Particles and Radiation/Particles, antiparticles, and photons.md",
+    "Physics/Particles and Radiation/Energy levels and photon emission.md",
+    "Physics/Particles and Radiation/Electron atom collisions.md",
+    "Physics/Particles and Radiation/Classification of particles.md",
+    "Physics/Particles and Radiation/Applications of conservation laws.md",
+    "Physics/Turning Points/Special relativity/Einstein's Theory of Special Relativity.md",
     "Physics/Nuclear physics/Nuclear radius.md",
-    "Physics/Nuclear physics/N-Z curve.png",
-    "Physics/Nuclear physics/Electron diffraction.png",
+    "Physics/Waves/Refraction, diffraction, and interference.md",
+    "Physics/Waves/Principle of superposition and stationary waves.md",
     "Physics/Nuclear physics/Electron diffraction pattern.png",
-    "Physics/Nuclear physics",
-    "Computer science/Unit 5 - Computational Organisation/Stored program concept.md",
-    "Computer science/Unit 3 - Data Representation/Floating point binary.md",
-    "Computer science/Unit 10 - The Internet/Structure and URLs.md",
-    "Computer science/Unit 10 - The Internet/Packet switching and Routers.md",
-    "Computer science/Unit 2 - Problem Solving/Abstraction and automation.md",
-    "Computer science/Unit 11 - Databases/Defining and updating SQL databases.md",
+    "Physics/Nuclear physics/Electron diffraction.png",
+    "Physics/Nuclear physics/Nuclear instability.md",
+    "Physics/Nuclear physics/Uranium-Thorium decay.png",
+    "Physics/Nuclear physics/N-Z curve.png",
+    "Physics/Particles and Radiation/N-Z curve.png",
+    "Physics/Nuclear physics/Radioactivity.md",
+    "Physics/Nuclear physics/Radioactive decay.md",
     "Computer science/Unit 10 - The Internet/Security on the internet.md",
-    "Computer science/Unit 10 - The Internet/Routing and Network address translation (NAT).md",
+    "Physics/Nuclear physics",
     "Computer science/Unit 10 - The Internet/Protocol stack and web pages.md",
-    "Computer science/Unit 10 - The Internet/Malware and hackers.md",
-    "Computer science/Unit 10 - The Internet/IP adresses.md",
-    "Computer science/Unit 10 - The Internet/HTTP methods and data (JSON and XML).md",
-    "Computer science/Unit 10 - The Internet/DHCP.md",
-    "Computer science/Unit 10 - The Internet/Client server model.md",
-    "Computer science/Unit 9 - Regular Languages/The Turing Machine.md",
-    "Computer science/Unit 9 - Regular Languages/Sets.md",
-    "Computer science/Unit 9 - Regular Languages/Reverse Polish Notation.md",
-    "Computer science/Unit 8 - Algorithms/problems.png",
-    "Computer science/Unit 8 - Algorithms/graph DFS.png",
-    "Computer science/Unit 8 - Algorithms/graph BFS.png",
-    "Computer science/Unit 8 - Algorithms/BFS9.png",
-    "Computer science/Unit 3 - Data Representation"
+    "Computer science/Unit 10 - The Internet/Packet switching and Routers.md",
+    "Computer science/Unit",
+    "Computer science/Unit 3 - Data Representation/Nyquist's theorem.png",
+    "Computer science/Unit 3 - Data Representation",
+    "Computer science/Unit 8 - Algorithms/problems.png"
   ]
 }
