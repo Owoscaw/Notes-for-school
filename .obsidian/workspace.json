@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Fields and their consequences/Capacitance/Charge and Discharge.md",
+                "file": "Physics/Fields and their consequences/Magnetic fields/Flux density and Moving charges.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Fields and their consequences/Capacitance/Charge and Discharge.md",
+                "file": "Physics/Fields and their consequences/Magnetic fields/Flux density and Moving charges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,10 +122,13 @@
   },
   "active": "356353d788229a95",
   "lastOpenFiles": [
-    "Physics/Fields and their consequences/Capacitance/Parallel plates and dielectrics.md",
+    "Physics/Fields and their consequences/Untitled.md",
+    "Physics/Fields and their consequences/Magnetic fields/Flux density and Moving charges.md",
+    "Physics/Fields and their consequences/Magnetic fields",
     "Physics/Fields and their consequences/Capacitance/Charge and Discharge.md",
-    "Physics/Fields and their consequences/Capacitance",
     "Physics/Fields and their consequences/Electric Fields.md",
+    "Physics/Fields and their consequences/Capacitance/Parallel plates and dielectrics.md",
+    "Physics/Fields and their consequences/Capacitance",
     "Physics/Fields and their consequences/polar molecules.png",
     "Physics/Fields and their consequences/parallel plate capacitor.png",
     "Physics/Nuclear physics/Fission and Fusion.md",
@@ -156,8 +159,6 @@
     "Physics/Nuclear physics/Radioactive decay.md",
     "Computer science/Unit 10 - The Internet/Security on the internet.md",
     "Physics/Nuclear physics",
-    "Computer science/Unit 10 - The Internet/Protocol stack and web pages.md",
-    "Computer science/Unit 10 - The Internet/Packet switching and Routers.md",
     "Computer science/Unit",
     "Computer science/Unit 3 - Data Representation/Nyquist's theorem.png",
     "Computer science/Unit 3 - Data Representation",

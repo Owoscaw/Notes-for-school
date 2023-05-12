@@ -1,4 +1,4 @@
-r
+
 Coulomb's law dictates that the force between two point charges in a vacuum is directly proportional to the product of their charges, and inversley proportional to the square of the distance between the charges, i.e:
 $$\Large F\propto\frac{Q_1Q_2}{r^2},\,\,\,F=k\frac{Q_1Q_2}{r^2}$$
 Where $k$ is a constant given by:
