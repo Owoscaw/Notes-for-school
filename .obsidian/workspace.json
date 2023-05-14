@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -122,7 +121,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "916279bb03a52dbe",
+  "active": "ed7d319f2f46b11d",
   "lastOpenFiles": [
     "Physics/Nuclear physics/Mass and Energy.md",
     "Physics/Nuclear physics/Fission and Fusion.md",
