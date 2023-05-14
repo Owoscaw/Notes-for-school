@@ -14,3 +14,19 @@ Where $B$ is magnetic flux density in Tesla, $I$ is the current flowing through 
 
 # Moving charges:
 
+A force acts on charged particles when they move through magnetic fields, which is why a net force is present on a wire carrying current. The magnitude of the force exerted on a particle of charge $Q$ moving at a velocity $v$ through a magnetic field of density $B$ is given by:
+$$\Huge F=BQv$$
+The direction of this force is found by using the left-hand rule, taking the second finger to be diretion of travel. This should be reversed for negattive charges.
+
+The force exerted by a magnetic field is always perpendicular to the motion of travel, resulting in charges following a [[Circular motion|circular path]]. It is because of this, centripetal force can be equated to the force from the magnetic field:
+$$\Huge F_c=F_{mag}$$
+$$\Large \frac{mv^2}{r}=BQv,\,\,\,r=\frac{mv^2}{BQv}=\frac{mv}{BQ}$$
+$$\Huge r=\frac{mv}{BQ}$$
+## Cyclotron:
+
+A cyclotron is a form of particle accelerator that makes use of circular motion in magnetic fields. These have applications in ion beam radiotherapy and radioactive tracing devices. It is formed by two semicircular electrodes with a uniform magnetic field that forms between them. This acts perpendicular to the plane of the electrodes.
+
+A high frequency AC voltage is applied between the electrodes, so that their charge always opposes each other. Charged particles move from the centre of one of the electrodes, and move in a circular path by the magnetic field formed by the two electrodes. AC is applied to keep accelerating charged particles between the plates so that they keep gaining velocity.
+
+Once particles reach the edge of the electrode, they are accelerated through the uniform magnetic field formed, gaining velocity and altering their circular path through the next electrode. This process increases the radius of their path. The AC voltage allows particles to be accelerated again in the other direction when they reach the edge of the new electrode. Once the radius of the particles' path becomes great enough, they exit the cyclotron at very high velocities:
+![[cyclotron.png|400]]

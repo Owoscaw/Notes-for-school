@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Nuclear physics/Fission and Fusion.md",
+                "file": "Physics/Fields and their consequences/Magnetic fields/Transformers.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286,
-    "collapsed": true
+    "width": 286
   },
   "right": {
     "id": "c37bda731e3fb27c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Nuclear physics/Fission and Fusion.md",
+                "file": "Physics/Fields and their consequences/Magnetic fields/Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -123,9 +123,25 @@
   },
   "active": "ed7d319f2f46b11d",
   "lastOpenFiles": [
-    "Physics/Nuclear physics/Mass and Energy.md",
+    "Physics/Fields and their consequences/Magnetic fields/transformer core.png",
+    "Physics/Fields and their consequences/Magnetic fields/Alternating Current.md",
+    "Physics/Fields and their consequences/Magnetic fields/Transformers.md",
+    "Physics/Fields and their consequences/Magnetic fields/oscilloscope readings.png",
+    "Physics/Fields and their consequences/Magnetic fields/Electromagnetic Induction.md",
+    "Physics/Fields and their consequences/Magnetic fields/Lenz's Law.png",
+    "Physics/Fields and their consequences/Magnetic fields/Magnetic Flux and Flux linkage.md",
+    "Physics/Fields and their consequences/Magnetic fields/flux linkage angled.png",
+    "Physics/Fields and their consequences/Magnetic fields/Flux density and Moving charges.md",
+    "Physics/Fields and their consequences/Magnetic fields/cyclotron.png",
+    "Physics/Fields and their consequences/Capacitance/Parallel plates and dielectrics.md",
+    "Physics/Fields and their consequences/Capacitance/Charge and Discharge.md",
     "Physics/Nuclear physics/Fission and Fusion.md",
     "conflict-files-obsidian-git.md",
+    "Physics/Fields and their consequences/Capacitance/polar molecules.png",
+    "Physics/Fields and their consequences/Capacitance/parallel plate capacitor.png",
+    "Physics/Fields and their consequences/Magnetic fields",
+    "Physics/Fields and their consequences/Capacitance",
+    "Physics/Nuclear physics/Mass and Energy.md",
     "Physics/Nuclear physics/stability curve.png",
     "Physics/Nuclear physics/Nuclear instability.md",
     "Computer science/Unit 9 - Regular Languages/Regular Expressions.md",
@@ -135,8 +151,6 @@
     "Physics/Nuclear physics/Radioactivity.md",
     "Physics/Nuclear physics/Nuclear radius.md",
     "Physics/Nuclear physics/N-Z curve.png",
-    "Physics/Nuclear physics/Electron diffraction.png",
-    "Physics/Nuclear physics/Electron diffraction pattern.png",
     "Physics/Nuclear physics",
     "Computer science/Unit 5 - Computational Organisation/Stored program concept.md",
     "Computer science/Unit 3 - Data Representation/Floating point binary.md",
@@ -148,17 +162,6 @@
     "Computer science/Unit 10 - The Internet/Routing and Network address translation (NAT).md",
     "Computer science/Unit 10 - The Internet/Protocol stack and web pages.md",
     "Computer science/Unit 10 - The Internet/Malware and hackers.md",
-    "Computer science/Unit 10 - The Internet/IP adresses.md",
-    "Computer science/Unit 10 - The Internet/HTTP methods and data (JSON and XML).md",
-    "Computer science/Unit 10 - The Internet/DHCP.md",
-    "Computer science/Unit 10 - The Internet/Client server model.md",
-    "Computer science/Unit 9 - Regular Languages/The Turing Machine.md",
-    "Computer science/Unit 9 - Regular Languages/Sets.md",
-    "Computer science/Unit 9 - Regular Languages/Reverse Polish Notation.md",
-    "Computer science/Unit 8 - Algorithms/problems.png",
-    "Computer science/Unit 8 - Algorithms/graph DFS.png",
-    "Computer science/Unit 8 - Algorithms/graph BFS.png",
-    "Computer science/Unit 8 - Algorithms/BFS9.png",
     "Computer science/Unit 3 - Data Representation"
   ]
 }
