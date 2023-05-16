@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Fields and their consequences/Magnetic fields/Alternating Current.md",
+                "file": "Physics/Particles and Radiation/Classification of particles.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
-    "collapsed": true
+    "width": 339.5
   },
   "right": {
     "id": "22b81e9e769aa80e",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Fields and their consequences/Magnetic fields/Alternating Current.md",
+                "file": "Physics/Particles and Radiation/Classification of particles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +122,15 @@
   },
   "active": "356353d788229a95",
   "lastOpenFiles": [
+    "Physics/Particles and Radiation/Applications of conservation laws.md",
+    "Physics/Particles and Radiation/Classification of particles.md",
+    "Physics/Particles and Radiation/Particle classification.png",
+    "Physics/Particles and Radiation/Particles, antiparticles, and photons.md",
+    "Physics/Particles and Radiation/Quarks and antiquarks.md",
+    "Physics/Particles and Radiation/Stable and unstable nuclei.md",
+    "Physics/Particles and Radiation/The photoelectric effect.md",
+    "Physics/Particles and Radiation/Electron atom collisions.md",
+    "Physics/Fields and their consequences/Magnetic fields/Alternating Current.md",
     "Physics/Fields and their consequences/Magnetic fields/Flux density and Moving charges.md",
     "Physics/Fields and their consequences/Magnetic fields/transformer core.png",
     "Physics/Fields and their consequences/Magnetic fields/oscilloscope readings.png",
@@ -132,7 +140,6 @@
     "Physics/Fields and their consequences/Magnetic fields/Magnetic Flux and Flux linkage.md",
     "Physics/Fields and their consequences/Magnetic fields/Lenz's Law.png",
     "Physics/Fields and their consequences/Magnetic fields/Electromagnetic Induction.md",
-    "Physics/Fields and their consequences/Magnetic fields/Alternating Current.md",
     "Physics/Fields and their consequences/Capacitance/polar molecules.png",
     "Physics/Fields and their consequences/Capacitance/parallel plate capacitor.png",
     "Physics/Fields and their consequences/Untitled.md",
@@ -145,18 +152,10 @@
     "Physics/Fields and their consequences/parallel plate capacitor.png",
     "Physics/Nuclear physics/Fission and Fusion.md",
     "Physics/Nuclear physics/Mass and Energy.md",
-    "Physics/Nuclear physics/stability curve.png",
     "Physics/Particles and Radiation/Particle interactions.md",
     "Physics/Particles and Radiation/Constituents of the atom.md",
     "Physics/Particles and Radiation/Wave-particle duality.md",
-    "Physics/Particles and Radiation/The photoelectric effect.md",
-    "Physics/Particles and Radiation/Stable and unstable nuclei.md",
-    "Physics/Particles and Radiation/Quarks and antiquarks.md",
-    "Physics/Particles and Radiation/Particles, antiparticles, and photons.md",
     "Physics/Particles and Radiation/Energy levels and photon emission.md",
-    "Physics/Particles and Radiation/Electron atom collisions.md",
-    "Physics/Particles and Radiation/Classification of particles.md",
-    "Physics/Particles and Radiation/Applications of conservation laws.md",
     "Physics/Turning Points/Special relativity/Einstein's Theory of Special Relativity.md",
     "Physics/Nuclear physics/Nuclear radius.md",
     "Physics/Waves/Refraction, diffraction, and interference.md",
