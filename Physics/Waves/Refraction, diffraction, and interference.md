@@ -8,10 +8,10 @@ The formula associated with the above experiment is as follows:
 $$\Huge W=\frac{\lambda D}{s}$$
 Where $W$ is fringe spacing, $\lambda$ is wavelength, $D$ is the distance between S2 and F, and $s$ is the slit separation.
 
-The series of maxima form when the path difference from the two sources (slits) is an integer multiple of the wavelength. This is because the two waves are in phase when they superimpose, so their displacements sum to create a more positive wave that appears as a bright spot. This is explored further in [[Principle of superposition and stationary waves]]. Formula for constructive interference:
+The series of maxima form when the path difference from the two sources (slits) is an integer multiple of the wavelength. This is because the two waves are in phase when they superimpose, so their displacements sum to create a more positive wave that appears as a bright spot. This is explored further in [[Superposition, stationary waves, and harmonics]]. Formula for constructive interference:
 $$\Huge |P_{1}\,-P_{2}|=n\lambda$$
 $$\Huge n\in\mathbb{Z}$$
-The series of minima form when the path difference from the two sources is a half integer multiple of the wavelength. This is because the two waves are completely out of phase when they superimpose, so their displacements completely cancel each other out. This is explored further in [[Principle of superposition and stationary waves]]. Formula for destructive interference:
+The series of minima form when the path difference from the two sources is a half integer multiple of the wavelength. This is because the two waves are completely out of phase when they superimpose, so their displacements completely cancel each other out. This is explored further in [[Superposition, stationary waves, and harmonics]]. Formula for destructive interference:
 $$\Huge |P_{1}\,-P_{2}|=\frac{n\lambda}{2}$$
 $$\Huge n\in\mathbb{Z}$$
 

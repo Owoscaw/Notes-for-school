@@ -20,7 +20,7 @@ The loop of wire detects the alternating magnetic field of the wave. When the ma
 
 ![[Spark gap transmitter.png|300]]
 
-Hertz placed a metal sheet in front of the above apparatus, causing the reflection of the radio wave, creating [[Principle of superposition and stationary waves|stationary waves]]. By using a detector, the distance between adjacent nodes in the stationary wave could be measured. This was used to determine the wavelength of EM waves, which could be combined with the known frequency of the waves to find the overall speed of the waves. This was shown to be consistent with Maxwell's prediction.
+Hertz placed a metal sheet in front of the above apparatus, causing the reflection of the radio wave, creating [[Superposition, stationary waves, and harmonics|stationary waves]]. By using a detector, the distance between adjacent nodes in the stationary wave could be measured. This was used to determine the wavelength of EM waves, which could be combined with the known frequency of the waves to find the overall speed of the waves. This was shown to be consistent with Maxwell's prediction.
 
 ## Fizeau:
 Fizeau was French and measured the speed of light using the following method:

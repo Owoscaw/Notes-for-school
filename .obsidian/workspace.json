@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Particles and Radiation/Classification of particles.md",
+                "file": "Physics/Waves/Superposition, stationary waves, and harmonics.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Particles and Radiation/Classification of particles.md",
+                "file": "Physics/Waves/Superposition, stationary waves, and harmonics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,8 +122,9 @@
   },
   "active": "356353d788229a95",
   "lastOpenFiles": [
-    "Physics/Particles and Radiation/Applications of conservation laws.md",
+    "Physics/Waves/Longitudinal and transverse waves.md",
     "Physics/Particles and Radiation/Classification of particles.md",
+    "Physics/Particles and Radiation/Applications of conservation laws.md",
     "Physics/Particles and Radiation/Particle classification.png",
     "Physics/Particles and Radiation/Particles, antiparticles, and photons.md",
     "Physics/Particles and Radiation/Quarks and antiquarks.md",
