@@ -1,6 +1,9 @@
 # Interference:
 
-Path difference is the difference in distance travelled by two waves. See [[Progressive waves]] for information on phase difference. A coherent source has the same frequency and wavelength, as well as a fixed phase difference between the two. A laser is an example of a coherent source, the light emitted is monochromatic and only emits a single wavelength of light. Lasers are used as sources in diffraction experiments, as they tend to form clear interference patterns.
+Path difference is defined to be the difference in the distance that two [[Progressive waves|progressive waves]] have travelled. The path difference of two waves is linked to their phase difference:
+$$\Huge Path\,difference=\frac{\theta \lambda}{2\pi}$$
+Interference can be destructive or constructive. Constructive interference happens when the path difference is an integer multiple of wavelength. Both waves have to be coherent to interfere like this, i.e. they have a constant phase difference. Destructive interference happens when the path difference is an odd multiple of half a wavelength.
+
 
 Young's double slit experiment demonstrates the interference patterns formed from two coherent light sources. This experiment can be done with two sources or a single source and a double slit. As the light passes through the slits, it diffracts and radiates out to form a series of maxima and minima, seen in the following image:
 ![[Double slit experiment.png|400]]
@@ -12,7 +15,7 @@ The series of maxima form when the path difference from the two sources (slits) 
 $$\Huge |P_{1}\,-P_{2}|=n\lambda$$
 $$\Huge n\in\mathbb{Z}$$
 The series of minima form when the path difference from the two sources is a half integer multiple of the wavelength. This is because the two waves are completely out of phase when they superimpose, so their displacements completely cancel each other out. This is explored further in [[Superposition and stationary waves]]. Formula for destructive interference:
-$$\Huge |P_{1}\,-P_{2}|=\frac{n\lambda}{2}$$
+$$\Huge |P_{1}\,-P_{2}|=\frac{(2n-1)\lambda}{2}$$
 $$\Huge n\in\mathbb{Z}$$
 
 
