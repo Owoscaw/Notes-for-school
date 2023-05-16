@@ -1,4 +1,3 @@
-
 A transverse wave is classified as any wave where the oscillation of particles or fields are at right angles to the direction of energy transfer. Longitudinal waves are characterised as waves where the oscillation of particles or fields are parallel to the direction of energy transfer. These waves feature compressions and rarefactions and cannot travel in a vaccum, they need a medium.
 
 # Polarisation:

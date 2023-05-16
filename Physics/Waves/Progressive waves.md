@@ -1,6 +1,6 @@
 A progressive wave transfers energy without transferring material and is made up of particles of a medium (or field) oscillating. For example, the electrical and magnetic fields of a wave oscillate to produce an EM wave. 
 
-Both [[Longitudinal and transverse waves]] have the following characteristics:
+Both [[Wave classification]] have the following characteristics:
 \> Amplitude: A wave's maximum displacement from its equilibrium
 \> Frequency: The number of full oscillations that pass through a point per second
 \> Wavelength: The length of one whole oscillation

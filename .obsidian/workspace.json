@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Waves/Superposition, stationary waves, and harmonics.md",
+                "file": "Physics/Waves/Optical fibres.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Waves/Superposition, stationary waves, and harmonics.md",
+                "file": "Physics/Waves/Optical fibres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,9 @@
   },
   "active": "356353d788229a95",
   "lastOpenFiles": [
-    "Physics/Waves/Longitudinal and transverse waves.md",
+    "Physics/Waves/Superposition and stationary waves.md",
+    "Physics/Waves/Refraction, diffraction, and interference.md",
+    "Physics/Waves/Wave classification.md",
     "Physics/Particles and Radiation/Classification of particles.md",
     "Physics/Particles and Radiation/Applications of conservation laws.md",
     "Physics/Particles and Radiation/Particle classification.png",
@@ -158,8 +160,6 @@
     "Physics/Particles and Radiation/Wave-particle duality.md",
     "Physics/Particles and Radiation/Energy levels and photon emission.md",
     "Physics/Turning Points/Special relativity/Einstein's Theory of Special Relativity.md",
-    "Physics/Nuclear physics/Nuclear radius.md",
-    "Physics/Waves/Refraction, diffraction, and interference.md",
     "Physics/Nuclear physics",
     "Computer science/Unit",
     "Computer science/Unit 3 - Data Representation"
