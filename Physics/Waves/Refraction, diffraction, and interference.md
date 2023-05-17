@@ -7,9 +7,11 @@ Interference can be destructive or constructive. Constructive interference happe
 Constructive interference happens becasue when path difference is an integer multiple of wavelength, both waves will be at their maxima and will [[Superposition and stationary waves|superimpose]] on one another. Destructive interference happens when the waves are completely out of phase, they will superimpose to produce no amplitude.
 
 
+# Young's double slit experiment:
+
 Young's double slit experiment demonstrates the interference patterns formed from two coherent light sources. This experiment can be done with two sources or a single source and a double slit. As the light passes through the slits, it diffracts and radiates out to form a series of maxima and minima, seen in the following image:
 ![[Double slit experiment.png|400]]
-The formula associated with the above experiment is as follows:
+The seperation between bright maxima, $W$, is given by the following formula:
 $$\Huge W=\frac{\lambda D}{s}$$
 Where $W$ is fringe spacing, $\lambda$ is wavelength, $D$ is the distance between S2 and F, and $s$ is the slit separation.
 
