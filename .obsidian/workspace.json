@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "10d15ac72bd5f85f",
+    "id": "6551bceaa74fb895",
     "type": "split",
     "children": [
       {
-        "id": "a8c4f58ba7748f77",
+        "id": "cd50da9fc1160a2f",
         "type": "tabs",
         "children": [
           {
-            "id": "356353d788229a95",
+            "id": "cc84b13e9fe7a204",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "97134d958ab3299d",
+    "id": "ca4a6481aaaea967",
     "type": "split",
     "children": [
       {
-        "id": "e699c124288d7348",
+        "id": "ef05bfaf117aa339",
         "type": "tabs",
         "children": [
           {
-            "id": "8b647f02250de508",
+            "id": "916279bb03a52dbe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "0922b4d96fcd0814",
+            "id": "8a0fcd48d00524fc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,15 +58,7 @@
             }
           },
           {
-            "id": "e5c371240f5c0b91",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "749921828ca4cae2",
+            "id": "81dc835e339070ab",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,18 +69,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 286,
+    "collapsed": true
   },
   "right": {
-    "id": "22b81e9e769aa80e",
+    "id": "c37bda731e3fb27c",
     "type": "split",
     "children": [
       {
-        "id": "f1a58282a935cb59",
+        "id": "1c1144ce2d737583",
         "type": "tabs",
         "children": [
           {
-            "id": "c54a2d8b6e9fe9d0",
+            "id": "cb6881fa15b164f2",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,8 +96,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "9f53588e39f01783",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,48 +122,47 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "356353d788229a95",
+  "active": "cc84b13e9fe7a204",
   "lastOpenFiles": [
+    "Physics/Waves/Superposition and stationary waves.md",
+    "Physics/Waves/Refraction, diffraction, and interference.md",
     "Physics/Waves/Progressive waves.md",
     "Physics/Waves/Optical fibres.md",
-    "Physics/Waves/Refraction, diffraction, and interference.md",
-    "Physics/Particles and Radiation/Stable and unstable nuclei.md",
-    "Physics/Waves/Superposition and stationary waves.md",
-    "Physics/Waves/Wave classification.md",
-    "Physics/Particles and Radiation/Classification of particles.md",
-    "Physics/Particles and Radiation/Applications of conservation laws.md",
-    "Physics/Particles and Radiation/Particle classification.png",
-    "Physics/Particles and Radiation/Particles, antiparticles, and photons.md",
-    "Physics/Particles and Radiation/Quarks and antiquarks.md",
-    "Physics/Particles and Radiation/The photoelectric effect.md",
     "Physics/Particles and Radiation/Electron atom collisions.md",
-    "Physics/Fields and their consequences/Magnetic fields/Alternating Current.md",
-    "Physics/Fields and their consequences/Magnetic fields/Flux density and Moving charges.md",
-    "Physics/Fields and their consequences/Magnetic fields/transformer core.png",
-    "Physics/Fields and their consequences/Magnetic fields/oscilloscope readings.png",
-    "Physics/Fields and their consequences/Magnetic fields/flux linkage angled.png",
-    "Physics/Fields and their consequences/Magnetic fields/cyclotron.png",
+    "Physics/Particles and Radiation/Constituents of the atom.md",
+    "Physics/Particles and Radiation/Quarks and antiquarks.md",
+    "Physics/Particles and Radiation/Particle interactions.md",
+    "Physics/Particles and Radiation/Particles, antiparticles, and photons.md",
     "Physics/Fields and their consequences/Magnetic fields/Transformers.md",
-    "Physics/Fields and their consequences/Magnetic fields/Magnetic Flux and Flux linkage.md",
-    "Physics/Fields and their consequences/Magnetic fields/Lenz's Law.png",
+    "Physics/Waves/Wave classification.md",
+    "Physics/Fields and their consequences/Magnetic fields/transformer core.png",
+    "Physics/Fields and their consequences/Magnetic fields/Alternating Current.md",
+    "Physics/Fields and their consequences/Magnetic fields/oscilloscope readings.png",
     "Physics/Fields and their consequences/Magnetic fields/Electromagnetic Induction.md",
+    "Physics/Fields and their consequences/Magnetic fields/Lenz's Law.png",
+    "Physics/Fields and their consequences/Magnetic fields/Magnetic Flux and Flux linkage.md",
+    "Physics/Fields and their consequences/Magnetic fields/flux linkage angled.png",
+    "Physics/Fields and their consequences/Magnetic fields/Flux density and Moving charges.md",
+    "Physics/Fields and their consequences/Magnetic fields/cyclotron.png",
+    "Physics/Fields and their consequences/Capacitance/Parallel plates and dielectrics.md",
+    "Physics/Fields and their consequences/Capacitance/Charge and Discharge.md",
+    "Physics/Nuclear physics/Fission and Fusion.md",
+    "conflict-files-obsidian-git.md",
     "Physics/Fields and their consequences/Capacitance/polar molecules.png",
     "Physics/Fields and their consequences/Capacitance/parallel plate capacitor.png",
-    "Physics/Fields and their consequences/Untitled.md",
     "Physics/Fields and their consequences/Magnetic fields",
-    "Physics/Fields and their consequences/Capacitance/Charge and Discharge.md",
-    "Physics/Fields and their consequences/Electric Fields.md",
-    "Physics/Fields and their consequences/Capacitance/Parallel plates and dielectrics.md",
     "Physics/Fields and their consequences/Capacitance",
-    "Physics/Fields and their consequences/polar molecules.png",
-    "Physics/Fields and their consequences/parallel plate capacitor.png",
-    "Physics/Nuclear physics/Fission and Fusion.md",
     "Physics/Nuclear physics/Mass and Energy.md",
-    "Physics/Particles and Radiation/Particle interactions.md",
-    "Physics/Particles and Radiation/Constituents of the atom.md",
-    "Physics/Particles and Radiation/Wave-particle duality.md",
+    "Physics/Nuclear physics/stability curve.png",
+    "Physics/Nuclear physics/Nuclear instability.md",
+    "Computer science/Unit 9 - Regular Languages/Regular Expressions.md",
+    "Physics/Particles and Radiation/N-Z curve.png",
+    "Physics/Nuclear physics/Uranium-Thorium decay.png",
+    "Physics/Nuclear physics/Radioactive decay.md",
+    "Physics/Nuclear physics/Radioactivity.md",
+    "Physics/Nuclear physics/Nuclear radius.md",
     "Physics/Nuclear physics",
-    "Computer science/Unit",
+    "Computer science/Unit 5 - Computational Organisation/Stored program concept.md",
     "Computer science/Unit 3 - Data Representation"
   ]
 }

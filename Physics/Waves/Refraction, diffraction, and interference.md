@@ -4,6 +4,8 @@ Path difference is defined to be the difference in the distance that two [[Progr
 $$\Huge Path\,difference=\frac{\theta \lambda}{2\pi}$$
 Interference can be destructive or constructive. Constructive interference happens when the path difference is an integer multiple of wavelength. Both waves have to be coherent to interfere like this, i.e. they have a constant phase difference. Destructive interference happens when the path difference is an odd multiple of half a wavelength.
 
+Constructive interference happens becasue when path difference is an integer multiple of wavelength, both waves will be at their maxima and will [[Superposition and stationary waves|superimpose]] on one another. Destructive interference happens when the waves are completely out of phase, they will superimpose to produce no amplitude.
+
 
 Young's double slit experiment demonstrates the interference patterns formed from two coherent light sources. This experiment can be done with two sources or a single source and a double slit. As the light passes through the slits, it diffracts and radiates out to form a series of maxima and minima, seen in the following image:
 ![[Double slit experiment.png|400]]
@@ -11,17 +13,6 @@ The formula associated with the above experiment is as follows:
 $$\Huge W=\frac{\lambda D}{s}$$
 Where $W$ is fringe spacing, $\lambda$ is wavelength, $D$ is the distance between S2 and F, and $s$ is the slit separation.
 
-The series of maxima form when the path difference from the two sources (slits) is an integer multiple of the wavelength. This is because the two waves are in phase when they superimpose, so their displacements sum to create a more positive wave that appears as a bright spot. This is explored further in [[Superposition and stationary waves]]. Formula for constructive interference:
-$$\Huge |P_{1}\,-P_{2}|=n\lambda$$
-$$\Huge n\in\mathbb{Z}$$
-The series of minima form when the path difference from the two sources is a half integer multiple of the wavelength. This is because the two waves are completely out of phase when they superimpose, so their displacements completely cancel each other out. This is explored further in [[Superposition and stationary waves]]. Formula for destructive interference:
-$$\Huge |P_{1}\,-P_{2}|=\frac{(2n-1)\lambda}{2}$$
-$$\Huge n\in\mathbb{Z}$$
-
-
-The same phenomenon can be observed with sound waves by placing two coherent speakers a distance away from each other and observing spots where they sound quieter and louder. These correspond to constructive and destructive interference of sound waves.
-
-Young's slit experiment was initally evidence to support that light has wave-like properties and was used to deduce that EM waves exhibit wave-like properties.
 
 # Diffraction:
 
