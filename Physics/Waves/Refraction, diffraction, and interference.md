@@ -18,21 +18,24 @@ Where $W$ is fringe spacing, $\lambda$ is wavelength, $D$ is the distance betwee
 
 # Diffraction:
 
-Diffraction is the spreading out of waves when they pass through or around a gap. The greatest diffraction occurs when the gap is the same length as the wavelength. As the gap gets increasingly small, the amount of the wave reflected instead of diffracted becomes increasingly greater. There is noticably less diffraction when the gap is larger than the wavelength.
+Diffraction is the spreading out of waves when they pass through or around a gap. The greatest amount of diffraction occurs when the gap is the same length as the wavelength. As this gap becomes smaller, less of the wave travels through the gap and diffracts. When the gap is larger, less of the wave can diffract.
 
 Diffraction also occurs when a wave collides with an object, as it diffracts over the edge of the object. Less diffraction occurs when the object is wider in comparison to the wavelength.
 
-Monochromatic (single wavelength) light can be diffracted through a single slit onto a screen to form an interference pattern of light and dark fringes. This pattern has a bright central fringe, which other maxima becoming increasingly less bright due to the inverse square law of EM radiation. This can be seen through the follwing graph:
+Monochromatic light can be diffracted through a single slit onto a screen to form an interference pattern of light and dark fringes. This pattern has a bright central fringe, with other apparent maxima becoming increasingly less bright due to the inverse square law of EM radiation. This can be seen through the follwing graph:
 ![[Single slit interference.png|300]]
 
-White light can be used instead of monochromatic light to produce a diffraction pattern of all different wavelengths of light. As each wavelength is diffracted by varying amounts, each different wavelength forms a maxima at different points. This forms a spectrum of all the colours of light on the screen. The interference pattern can be seen in comparison to monochromatic light in the following image:
+White light can be used instead of monochromatic light to produce a diffraction pattern of all different wavelengths of light. As each wavelength is diffracted by varying amounts, maxima form at different points for every wavelength. A spectrum of light around each maximum can therefore be seen: 
 ![[Diffraction spectrum.jpg|500]]
 
-A diffraction grating is a slide containing many equally spaced slits. When monochromatic light is passed through it, the resultant diffraction pattern is significantly sharper and more defined than double slits. This is because there are more waves constructively interfering at maxima, as there are more sources (slits).
 
-The central maxima are also called the zero order maxima, as it is the "0th" maxima. The maxima immediatly next to the central maxima are first order, and so on and so forth. 
+# Diffraction gratings:
 
-The formula associated with the diffraction grating experiments is:
+A diffraction grating is a slide containing many equally spaced slits. When monochromatic light is shone through it, the resultant diffraction pattern is significantly sharper and more defined than Young's double slit experiment. This is because there are more waves constructively interfering at maxima, as there are more sources (slits).
+
+The central maximum is also called the zero order maxima, as it is the "0th" maxima. Maxima immediatly next to the central maxima are first order, and so on and so forth. 
+
+
 $$\Huge d\,sin\theta=n\lambda$$
 Where $d$ is the distance between the slits, $\theta$ is the angle to the normal made by the maximum, $n$ is the order of the maxima, and $\lambda$ is the wavelength of light. As wavelength increases, the distance between orders will increase as $\theta$ grows larger due to the increase in diffraction as slit spacing becomes closer to the wavelength.
 
@@ -44,15 +47,15 @@ The formula can be derived throught the following steps:
 ![[Diffraction grating proof.png|200]]
 
 
-Refraction:
+# Refraction:
 
-Refractive index is a property of a material that is a measure of how much it slows light down when passing through it. It is calculated by dividing the speed of light in a vacuum by the speed of light in the substance:
+Refractive index is a property of a material that is a measure of how much it slows light down when passing through it. It is calculated by:
 $$\Huge n=\frac{c}{c_{s}}$$
 Where $c_{s}$ is the speed of light in the substance and $n$ is the refractive index of the substance.
 
 A material with higher refractive index can be characterised as being more optically dense. The refractive index of air is approximately 1, as light does not slow down to a significant degree when passing through air.
 
-Refraction occurs when a wave enters a different medium, causing a change in direction either towards or away from a normal, depending of the materials refractive index. Snell's law is used for calculations involving refraction:
+Refraction occurs when a wave enters a different medium, causing a change in direction either towards or away from a normal, depending on the material's refractive index. Snell's law is used to calculate the angle of incedence and angle of refraction when a ray of light passes through a boundary:
 $$\Huge n_{1}\,sin\,\theta_{1}=n_{2}\,sin\,\theta_{2}$$
 Where:
 \> $n_{1}$ is the refractive index of material 1
@@ -61,9 +64,11 @@ Where:
 \> $\theta_{2}$ is the angle of refraction of the ray in material 2
 
 ![[Refraction.png|220]]
-As the ray of light meets the interface between materials of different refractive indexes, the ray of light that hits the interface first slows down first. As the rest of the ray crosses the interface, it will meet up with the parts that hit the interface first and bend towards the normal. This is true for a ray of light entering a more optically dense material. The opposite is true when a ray of light is travelling to a less optically dense material.
+As the ray of light meets the interface between materials of different refractive indexes, the parts of the ray that hit the interface first slows down first. As the rest of the ray crosses the interface, it will meet up with the parts that hit the interface first and bend towards the normal. This is true for a ray of light entering a more optically dense material. The opposite is true when a ray of light is travelling to a less optically dense material.
 
-When the angle of refraction is exactly 90 degrees, the ray will travel along the boundary. The angle of refraction that causes this is known as the boundary's critical angle, $\theta_{c}$. This can be found by subsituting in 90 degrees for the angle of refraction in snell's law:
+# Critical angle:
+
+When the angle of refraction is exactly 90 degrees, the ray will travel along the boundary. The angle of incidence that causes this is known as the boundary's critical angle, $\theta_{c}$. This can be found by subsituting in 90 degrees for the angle of refraction in snell's law:
 $$\Huge n_{1}\,sin\,\theta_{c}=n_{2}\,sin(90)$$
 $$\Huge n_{1}\,sin\,\theta_{c}=n_{2}$$
 $$\Huge sin\,\theta_{c}=\frac{n_{2}}{n_{1}}$$

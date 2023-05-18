@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Waves/Refraction, diffraction, and interference.md",
+                "file": "Physics/Electricity/Resistivity.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286,
-    "collapsed": true
+    "width": 286
   },
   "right": {
     "id": "c37bda731e3fb27c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Waves/Refraction, diffraction, and interference.md",
+                "file": "Physics/Electricity/Resistivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,10 +123,20 @@
   },
   "active": "cc84b13e9fe7a204",
   "lastOpenFiles": [
-    "Physics/Waves/Superposition and stationary waves.md",
-    "Physics/Waves/Refraction, diffraction, and interference.md",
-    "Physics/Waves/Progressive waves.md",
+    "Physics/Electricity/Potential dividers.md",
+    "Physics/Electricity/Resistivity.md",
+    "Physics/Electricity/Electromotive force and internal resistance.md",
+    "Physics/Electricity/Current and voltage characteristics.md",
+    "Physics/Electricity/Circuits.md",
+    "Physics/Electricity/Basics of electricity.md",
+    "Physics/Further Mechanics/Simple harmonic systems.md",
+    "Physics/Further Mechanics/Simple harmonic motion.md",
+    "Physics/Further Mechanics/Forced vibrations and resonance.md",
+    "Physics/Further Mechanics/Circular motion.md",
     "Physics/Waves/Optical fibres.md",
+    "Physics/Waves/Refraction, diffraction, and interference.md",
+    "Physics/Waves/Superposition and stationary waves.md",
+    "Physics/Waves/Progressive waves.md",
     "Physics/Particles and Radiation/Electron atom collisions.md",
     "Physics/Particles and Radiation/Constituents of the atom.md",
     "Physics/Particles and Radiation/Quarks and antiquarks.md",
@@ -145,24 +154,14 @@
     "Physics/Fields and their consequences/Magnetic fields/Flux density and Moving charges.md",
     "Physics/Fields and their consequences/Magnetic fields/cyclotron.png",
     "Physics/Fields and their consequences/Capacitance/Parallel plates and dielectrics.md",
-    "Physics/Fields and their consequences/Capacitance/Charge and Discharge.md",
-    "Physics/Nuclear physics/Fission and Fusion.md",
-    "conflict-files-obsidian-git.md",
     "Physics/Fields and their consequences/Capacitance/polar molecules.png",
     "Physics/Fields and their consequences/Capacitance/parallel plate capacitor.png",
     "Physics/Fields and their consequences/Magnetic fields",
     "Physics/Fields and their consequences/Capacitance",
-    "Physics/Nuclear physics/Mass and Energy.md",
     "Physics/Nuclear physics/stability curve.png",
-    "Physics/Nuclear physics/Nuclear instability.md",
-    "Computer science/Unit 9 - Regular Languages/Regular Expressions.md",
     "Physics/Particles and Radiation/N-Z curve.png",
     "Physics/Nuclear physics/Uranium-Thorium decay.png",
-    "Physics/Nuclear physics/Radioactive decay.md",
-    "Physics/Nuclear physics/Radioactivity.md",
-    "Physics/Nuclear physics/Nuclear radius.md",
     "Physics/Nuclear physics",
-    "Computer science/Unit 5 - Computational Organisation/Stored program concept.md",
     "Computer science/Unit 3 - Data Representation"
   ]
 }

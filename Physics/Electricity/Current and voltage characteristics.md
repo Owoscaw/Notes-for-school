@@ -11,4 +11,4 @@ A semiconductor diode has a bias towards current flowing in a given direction. T
 A filament lamp contains a length of wire that heats up as current increases. As it heats up, the atoms within it will vibrate at a higher amplitude and therefore interfere with flowing current to a greater degree. This produces the effect of higher resistance as more current flows across it. At lower currents, the lamp does not heat up to a significant degree for this to come into play. Ohms law is obeyed until this point is reached.
 ![[Filament lamp.png|450]]
 
-Ammeters can be assumed to haave zero resistance, as to not affect the measurement of current. Voltmeters can be assumed to have infinite resistance, meaning no current can flow accross them. This means that both pieces of equiptment will show the exact value.
+Ammeters can be assumed to have zero resistance, as to not affect the measurement of current. Voltmeters can be assumed to have infinite resistance, meaning no current can flow accross them. This means that both pieces of equiptment will show the exact value.
