@@ -38,9 +38,19 @@
                 "currentVersion": "1.4.14"
               }
             }
+          },
+          {
+            "id": "0e9d910029de7550",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +152,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "db680d1785132606",
+  "active": "0e9d910029de7550",
   "lastOpenFiles": [
     "Physics/Electricity/Potential dividers.md",
     "Physics/Electricity/Resistivity.md",
